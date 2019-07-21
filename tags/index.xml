@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tiziano De Matteis</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Tiziano De Matteis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>community discovery</title>
+      <link>/tags/community-discovery/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/community-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph enumeration</title>
+      <link>/tags/graph-enumeration/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/graph-enumeration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k-plexes</title>
+      <link>/tags/k-plexes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/k-plexes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel programming</title>
+      <link>/tags/parallel-programming/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/parallel-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

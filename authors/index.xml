@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Tiziano De Matteis</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Tiziano De Matteis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alessio Conte</title>
+      <link>/authors/alessio-conte/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alessio-conte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Marino</title>
+      <link>/authors/andrea-marino/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/andrea-marino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniele De Sensi</title>
+      <link>/authors/daniele-de-sensi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniele-de-sensi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luca Versari</title>
+      <link>/authors/luca-versari/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/luca-versari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Grossi</title>
+      <link>/authors/roberto-grossi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/roberto-grossi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tiziano-de-matteis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m currently a postdoc of &lt;a href=&#34;https://spcl.inf.ethz.ch/&#34; target=&#34;_blank&#34;&gt;SPCL Group&lt;/a&gt; at ETH Zurich. My principal research interests are related to Parallel and Distributed Computing with a particular focus in FPGAs for HPC,  Data Stream Processing, and Energy Awareness in Parallel Computing.&lt;/p&gt;
+
+&lt;p&gt;I am a former member of &lt;a href=&#34;http://calvados.di.unipi.it/paragroup/&#34; target=&#34;_blank&#34;&gt;Parallel Programming Model Group&lt;/a&gt; at University of Pisa.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
