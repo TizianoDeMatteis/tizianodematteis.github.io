@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intel KNL | Tiziano De Matteis</title>
+    <link>/tags/intel-knl/</link>
+      <atom:link href="/tags/intel-knl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intel KNL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Intel KNL</title>
+      <link>/tags/intel-knl/</link>
+    </image>
+    
+    <item>
+      <title>P$^3$ARSEC: Towards Parallel Patterns Benchmarking</title>
+      <link>/publication/sac-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sac-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,20 +3,228 @@
   <channel>
     <title>Tiziano De Matteis</title>
     <link>/authors/tiziano-de-matteis/</link>
-    <description>Recent content on Tiziano De Matteis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/authors/tiziano-de-matteis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiziano De Matteis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+    </image>
     
-	    <atom:link href="/authors/tiziano-de-matteis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Streaming Message Interface: High-Performance DistributedMemory Programming on Reconfigurable Hardware</title>
+      <link>/publication/smi/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smi/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
+      <link>/publication/gasser/</link>
+      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <guid>/publication/gasser/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>D2K: Scalable Community Detection in Massive Networks via Small-Diameter k-Plexes</title>
       <link>/publication/kdd-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/kdd-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Message Latency and CPU Utilization in the CAF Actor Framework</title>
+      <link>/publication/cafpdp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cafpdp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplifying self-adaptive and power-aware computing with Nornir</title>
+      <link>/publication/nornir-fgcs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nornir-fgcs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The RePhrase Extended Pattern Set for Data Intensive Parallel Computing</title>
+      <link>/publication/rephrase-ijpp-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rephrase-ijpp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Parallel Patterns Out of the Corner: The P$^3$ARSEC Benchmark Suite</title>
+      <link>/publication/p-3-arsec-taco-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/p-3-arsec-taco-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On dynamic memory allocation in sliding-window parallel patterns for streaming analytics</title>
+      <link>/publication/jsc-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jsc-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Continuous Preference Queries over Out-of-Order and Bursty Data Streams</title>
+      <link>/publication/tpds-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tpds-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Patterns for Window-Based Stateful Operators on Data Streams: An Algorithmic Skeleton Approach</title>
+      <link>/publication/ijpp-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ijpp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Scaling for Distributed Latency-sensitive Data Stream Operators</title>
+      <link>/publication/dasp-pdp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dasp-pdp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Concurrency Throttling and Thread Packing on SMT Multicores</title>
+      <link>/publication/pdp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nornir: A Customisable Framework for Autonomic and Power-Aware Applications</title>
+      <link>/publication/nornir-autodasp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nornir-autodasp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P$^3$ARSEC: Towards Parallel Patterns Benchmarking</title>
+      <link>/publication/sac-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sac-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proactive elasticity and energy awareness in data stream processing </title>
+      <link>/publication/jss-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jss-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Divide-and-conquer Parallel Pattern Implementation for Multicores</title>
+      <link>/publication/seps-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/seps-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Skyline Queries on Multicore Architectures</title>
+      <link>/publication/ccpe-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ccpe-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data stream processing via code annotations</title>
+      <link>/publication/js-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/js-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep Calm and React with Foresight: Strategies for Low-Latency and Energy-Efficient Elastic Data Stream Processing</title>
+      <link>/publication/ppopp-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ppopp-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Patterns for Adaptive Data Stream Processing</title>
+      <link>/publication/dematteis-phd-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dematteis-phd-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multicore Parallelization of Continuous Skyline Queries on Data Streams</title>
+      <link>/publication/europar-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/europar-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallelizing High-Frequency Trading Applications by using C&#43; &#43; 11 Attributes</title>
+      <link>/publication/repara-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/repara-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomic Parallel Data Stream Processing</title>
+      <link>/publication/hpcs-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/hpcs-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A High-Throughput and Low-Latency Parallelization of Window-based Stream Joins on Multicores</title>
+      <link>/publication/ispa-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ispa-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Run-Time Support for Fast Dense Linear Algebra on Multi-Core</title>
+      <link>/publication/pdcn-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pdcn-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Message-Passing on Multicore Architectures Using Hardware Multi-threading</title>
+      <link>/publication/pdp-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Architectural Supports for Fine-Grained Synchronization Mechanisms</title>
+      <link>/publication/pdcn-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/pdcn-2013/</guid>
       <description></description>
     </item>
     

@@ -3,20 +3,24 @@
   <channel>
     <title>Tiziano De Matteis</title>
     <link>/authors/admin/</link>
-    <description>Recent content on Tiziano De Matteis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    
-	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiziano De Matteis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/admin/</link>
+    </image>
     
     <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently a postdoc of &lt;a href=&#34;https://spcl.inf.ethz.ch/&#34; target=&#34;_blank&#34;&gt;SPCL Group&lt;/a&gt; at ETH Zurich. My principal research interests are related to Parallel and Distributed Computing with a particular focus in FPGAs for HPC,  Data Stream Processing, and Energy Awareness in Parallel Computing.&lt;/p&gt;
+      <description>&lt;p&gt;I received his MSc and Ph.D. from the University of Pisa.
+Currently, I am a PostDoc at the &lt;a href=&#34;https://spcl.inf.ethz.ch/&#34; target=&#34;_blank&#34;&gt;SPCL Group&lt;/a&gt; at ETH Zurich, working on reconfigurable hardware for High-Performance Computing.&lt;/p&gt;
+
+&lt;p&gt;My principal research interests are related to Parallel and Distributed Computing with a particular focus on FPGAs for HPC, Data Stream Processing, and Energy Awareness in Parallel Computing. In approaching these topics his main objective is to provide the application programmer with high-level abstractions and tools to develop complex parallel software with reduced time-to-market.&lt;/p&gt;
 
 &lt;p&gt;I am a former member of &lt;a href=&#34;http://calvados.di.unipi.it/paragroup/&#34; target=&#34;_blank&#34;&gt;Parallel Programming Model Group&lt;/a&gt; at University of Pisa.&lt;/p&gt;
 </description>

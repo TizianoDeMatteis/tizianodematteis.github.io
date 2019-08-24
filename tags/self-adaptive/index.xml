@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-adaptive | Tiziano De Matteis</title>
+    <link>/tags/self-adaptive/</link>
+      <atom:link href="/tags/self-adaptive/index.xml" rel="self" type="application/rss+xml" />
+    <description>Self-adaptive</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Self-adaptive</title>
+      <link>/tags/self-adaptive/</link>
+    </image>
+    
+    <item>
+      <title>Simplifying self-adaptive and power-aware computing with Nornir</title>
+      <link>/publication/nornir-fgcs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nornir-fgcs-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

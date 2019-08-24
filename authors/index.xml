@@ -1,21 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Tiziano De Matteis</title>
+    <title>Authors | Tiziano De Matteis</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Tiziano De Matteis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jakub Beránek</title>
+      <link>/authors/jakub-beranek/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jakub-beranek/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Johannes de Fine Licht</title>
+      <link>/authors/johannes-de-fine-licht/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/johannes-de-fine-licht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tiziano-de-matteis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torsten Hoefler</title>
+      <link>/authors/torsten-hoefler/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/torsten-hoefler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniele De Sensi</title>
+      <link>/authors/daniele-de-sensi/</link>
+      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <guid>/authors/daniele-de-sensi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriele Mencagli</title>
+      <link>/authors/gabriele-mencagli/</link>
+      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <guid>/authors/gabriele-mencagli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Danelutto</title>
+      <link>/authors/marco-danelutto/</link>
+      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <guid>/authors/marco-danelutto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massimo Torquati</title>
+      <link>/authors/massimo-torquati/</link>
+      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <guid>/authors/massimo-torquati/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alessio Conte</title>
       <link>/authors/alessio-conte/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/alessio-conte/</guid>
       <description></description>
     </item>
@@ -24,17 +88,7 @@
       <title>Andrea Marino</title>
       <link>/authors/andrea-marino/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/andrea-marino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniele De Sensi</title>
-      <link>/authors/daniele-de-sensi/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/daniele-de-sensi/</guid>
       <description></description>
     </item>
     
@@ -42,7 +96,6 @@
       <title>Luca Versari</title>
       <link>/authors/luca-versari/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/luca-versari/</guid>
       <description></description>
     </item>
@@ -51,17 +104,71 @@
       <title>Roberto Grossi</title>
       <link>/authors/roberto-grossi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/authors/roberto-grossi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tiziano De Matteis</title>
-      <link>/authors/tiziano-de-matteis/</link>
+      <title>Tullio Menga</title>
+      <link>/authors/tullio-menga/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/tiziano-de-matteis/</guid>
+      <guid>/authors/tullio-menga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Aldinucci</title>
+      <link>/authors/marco-aldinucci/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-aldinucci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Kilpatrick</title>
+      <link>/authors/peter-kilpatrick/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-kilpatrick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maurizio Drocco</title>
+      <link>/authors/maurizio-drocco/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/maurizio-drocco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvatore Di Girolamo</title>
+      <link>/authors/salvatore-di-girolamo/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/salvatore-di-girolamo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniele Buono</title>
+      <link>/authors/daniele-buono/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/daniele-buono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Vanneschi</title>
+      <link>/authors/marco-vanneschi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-vanneschi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio Luporini</title>
+      <link>/authors/fabio-luporini/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/fabio-luporini/</guid>
       <description></description>
     </item>
     
@@ -69,9 +176,11 @@
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m currently a postdoc of &lt;a href=&#34;https://spcl.inf.ethz.ch/&#34; target=&#34;_blank&#34;&gt;SPCL Group&lt;/a&gt; at ETH Zurich. My principal research interests are related to Parallel and Distributed Computing with a particular focus in FPGAs for HPC,  Data Stream Processing, and Energy Awareness in Parallel Computing.&lt;/p&gt;
+      <description>&lt;p&gt;I received his MSc and Ph.D. from the University of Pisa.
+Currently, I am a PostDoc at the &lt;a href=&#34;https://spcl.inf.ethz.ch/&#34; target=&#34;_blank&#34;&gt;SPCL Group&lt;/a&gt; at ETH Zurich, working on reconfigurable hardware for High-Performance Computing.&lt;/p&gt;
+
+&lt;p&gt;My principal research interests are related to Parallel and Distributed Computing with a particular focus on FPGAs for HPC, Data Stream Processing, and Energy Awareness in Parallel Computing. In approaching these topics his main objective is to provide the application programmer with high-level abstractions and tools to develop complex parallel software with reduced time-to-market.&lt;/p&gt;
 
 &lt;p&gt;I am a former member of &lt;a href=&#34;http://calvados.di.unipi.it/paragroup/&#34; target=&#34;_blank&#34;&gt;Parallel Programming Model Group&lt;/a&gt; at University of Pisa.&lt;/p&gt;
 </description>

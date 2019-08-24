@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Tiziano De Matteis</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2019 11:10:23 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
+      <link>/publication/gasser/</link>
+      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <guid>/publication/gasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplifying self-adaptive and power-aware computing with Nornir</title>
+      <link>/publication/nornir-fgcs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nornir-fgcs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The RePhrase Extended Pattern Set for Data Intensive Parallel Computing</title>
+      <link>/publication/rephrase-ijpp-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rephrase-ijpp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Parallel Patterns Out of the Corner: The P$^3$ARSEC Benchmark Suite</title>
+      <link>/publication/p-3-arsec-taco-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/p-3-arsec-taco-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On dynamic memory allocation in sliding-window parallel patterns for streaming analytics</title>
+      <link>/publication/jsc-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jsc-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Continuous Preference Queries over Out-of-Order and Bursty Data Streams</title>
+      <link>/publication/tpds-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tpds-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Patterns for Window-Based Stateful Operators on Data Streams: An Algorithmic Skeleton Approach</title>
+      <link>/publication/ijpp-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ijpp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proactive elasticity and energy awareness in data stream processing </title>
+      <link>/publication/jss-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jss-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Skyline Queries on Multicore Architectures</title>
+      <link>/publication/ccpe-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ccpe-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data stream processing via code annotations</title>
+      <link>/publication/js-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/js-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
