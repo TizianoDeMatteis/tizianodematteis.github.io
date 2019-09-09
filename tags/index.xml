@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>community discovery</title>
-      <link>/tags/community-discovery/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/community-discovery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data stream processing</title>
       <link>/tags/data-stream-processing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -53,34 +45,10 @@
     </item>
     
     <item>
-      <title>graph enumeration</title>
-      <link>/tags/graph-enumeration/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/graph-enumeration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>k-plexes</title>
-      <link>/tags/k-plexes/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/k-plexes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Parallel computing</title>
       <link>/tags/parallel-computing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/parallel-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parallel programming</title>
-      <link>/tags/parallel-programming/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/parallel-programming/</guid>
       <description></description>
     </item>
     
@@ -109,6 +77,46 @@
     </item>
     
     <item>
+      <title>community discovery</title>
+      <link>/tags/community-discovery/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/community-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph enumeration</title>
+      <link>/tags/graph-enumeration/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-enumeration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k-plexes</title>
+      <link>/tags/k-plexes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/k-plexes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel programming</title>
+      <link>/tags/parallel-programming/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/parallel-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel patterns</title>
+      <link>/tags/parallel-patterns/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/parallel-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>algorithmic skeletons</title>
       <link>/tags/algorithmic-skeletons/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -129,14 +137,6 @@
       <link>/tags/multicore-programming/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/tags/multicore-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel patterns</title>
-      <link>/tags/parallel-patterns/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/parallel-patterns/</guid>
       <description></description>
     </item>
     
