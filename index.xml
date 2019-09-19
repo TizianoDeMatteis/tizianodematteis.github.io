@@ -43,7 +43,7 @@ with SMI messages are &lt;strong&gt;streamed&lt;/strong&gt; across the network d
 applications used for the evaluation perfomed in the paper: &lt;em&gt;&amp;ldquo;Streaming Message Interface: High-Performance Distributed Memory
 Programming on Reconfigurable Hardware&amp;rdquo;&lt;/em&gt;, Tiziano De Matteis, Johannes de Fine Licht, Jakub Beránek, and Torsten Hofler. To appear in Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, 2019 (SC 2019).&lt;/p&gt;
 
-&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/spcl/SMI/&#34; target=&#34;_blank&#34;&gt;project webpace&lt;/a&gt; and to the paper for a reference on how to use SMI for your own distributed FPGA programs.&lt;/p&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;https://github.com/spcl/SMI/&#34; target=&#34;_blank&#34;&gt;project webpage&lt;/a&gt; and to the paper for a reference on how to use SMI for your own distributed FPGA programs.&lt;/p&gt;
 </description>
     </item>
     
