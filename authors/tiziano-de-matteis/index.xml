@@ -5,7 +5,7 @@
     <link>/authors/tiziano-de-matteis/</link>
       <atom:link href="/authors/tiziano-de-matteis/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiziano De Matteis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tiziano De Matteis</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Streaming Message Interface: High-Performance DistributedMemory Programming on Reconfigurable Hardware</title>
-      <link>/publication/smi/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/smi/</guid>
+      <title> FBLAS: Streaming Linear Algebra on FPGA</title>
+      <link>/publication/fblas/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fblas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
       <link>/publication/gasser/</link>
-      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2020 09:09:50 +0000</pubDate>
       <guid>/publication/gasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Message Interface: High-Performance DistributedMemory Programming on Reconfigurable Hardware</title>
+      <link>/publication/smi/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smi/</guid>
       <description></description>
     </item>
     
