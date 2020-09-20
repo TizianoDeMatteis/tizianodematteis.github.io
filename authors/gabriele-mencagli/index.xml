@@ -5,7 +5,7 @@
     <link>/authors/gabriele-mencagli/</link>
       <atom:link href="/authors/gabriele-mencagli/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriele Mencagli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 09:09:50 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Gabriele Mencagli</title>
@@ -15,7 +15,7 @@
     <item>
       <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
       <link>/publication/gasser/</link>
-      <pubDate>Tue, 25 Aug 2020 09:09:50 +0000</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/publication/gasser/</guid>
       <description></description>
     </item>

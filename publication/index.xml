@@ -21,18 +21,18 @@
     </item>
     
     <item>
-      <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
-      <link>/publication/gasser/</link>
-      <pubDate>Tue, 25 Aug 2020 09:09:50 +0000</pubDate>
-      <guid>/publication/gasser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Streaming Message Interface: High-Performance DistributedMemory Programming on Reconfigurable Hardware</title>
       <link>/publication/smi/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/publication/smi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
+      <link>/publication/gasser/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gasser/</guid>
       <description></description>
     </item>
     

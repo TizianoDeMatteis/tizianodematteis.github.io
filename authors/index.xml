@@ -37,38 +37,6 @@
     </item>
     
     <item>
-      <title>Daniele De Sensi</title>
-      <link>/authors/daniele-de-sensi/</link>
-      <pubDate>Tue, 25 Aug 2020 09:09:50 +0000</pubDate>
-      <guid>/authors/daniele-de-sensi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gabriele Mencagli</title>
-      <link>/authors/gabriele-mencagli/</link>
-      <pubDate>Tue, 25 Aug 2020 09:09:50 +0000</pubDate>
-      <guid>/authors/gabriele-mencagli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marco Danelutto</title>
-      <link>/authors/marco-danelutto/</link>
-      <pubDate>Tue, 25 Aug 2020 09:09:50 +0000</pubDate>
-      <guid>/authors/marco-danelutto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Massimo Torquati</title>
-      <link>/authors/massimo-torquati/</link>
-      <pubDate>Tue, 25 Aug 2020 09:09:50 +0000</pubDate>
-      <guid>/authors/massimo-torquati/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jakub Beránek</title>
       <link>/authors/jakub-beranek/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
@@ -81,6 +49,38 @@
       <link>/authors/torsten-hoefler/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/torsten-hoefler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniele De Sensi</title>
+      <link>/authors/daniele-de-sensi/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniele-de-sensi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriele Mencagli</title>
+      <link>/authors/gabriele-mencagli/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gabriele-mencagli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Danelutto</title>
+      <link>/authors/marco-danelutto/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-danelutto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massimo Torquati</title>
+      <link>/authors/massimo-torquati/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/massimo-torquati/</guid>
       <description></description>
     </item>
     
