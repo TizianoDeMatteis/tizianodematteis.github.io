@@ -5,12 +5,60 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Andreas Kuster</title>
+      <link>/authors/andreas-kuster/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/andreas-kuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominic Hofer</title>
+      <link>/authors/dominic-hofer/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/dominic-hofer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes de Fine Licht</title>
+      <link>/authors/johannes-de-fine-licht/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/johannes-de-fine-licht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tal Ben-Nun</title>
+      <link>/authors/tal-ben-nun/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/tal-ben-nun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/tiziano-de-matteis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torsten Hoefler</title>
+      <link>/authors/torsten-hoefler/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/torsten-hoefler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>and Torsten Hoefler</title>
@@ -21,34 +69,10 @@
     </item>
     
     <item>
-      <title>Johannes de Fine Licht</title>
-      <link>/authors/johannes-de-fine-licht/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/johannes-de-fine-licht/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiziano De Matteis</title>
-      <link>/authors/tiziano-de-matteis/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/tiziano-de-matteis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jakub Beránek</title>
       <link>/authors/jakub-beranek/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jakub-beranek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Torsten Hoefler</title>
-      <link>/authors/torsten-hoefler/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/torsten-hoefler/</guid>
       <description></description>
     </item>
     

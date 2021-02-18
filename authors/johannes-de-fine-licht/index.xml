@@ -5,12 +5,20 @@
     <link>/authors/johannes-de-fine-licht/</link>
       <atom:link href="/authors/johannes-de-fine-licht/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes de Fine Licht</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Johannes de Fine Licht</title>
       <link>/authors/johannes-de-fine-licht/</link>
     </image>
+    
+    <item>
+      <title>StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems</title>
+      <link>/publication/stencilflow/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/stencilflow/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title> FBLAS: Streaming Linear Algebra on FPGA</title>

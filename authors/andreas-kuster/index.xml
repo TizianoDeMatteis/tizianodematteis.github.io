@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Torsten Hoefler | Tiziano De Matteis</title>
-    <link>/authors/torsten-hoefler/</link>
-      <atom:link href="/authors/torsten-hoefler/index.xml" rel="self" type="application/rss+xml" />
-    <description>Torsten Hoefler</description>
+    <title>Andreas Kuster | Tiziano De Matteis</title>
+    <link>/authors/andreas-kuster/</link>
+      <atom:link href="/authors/andreas-kuster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Kuster</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Torsten Hoefler</title>
-      <link>/authors/torsten-hoefler/</link>
+      <title>Andreas Kuster</title>
+      <link>/authors/andreas-kuster/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/stencilflow/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/stencilflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Streaming Message Interface: High-Performance DistributedMemory Programming on Reconfigurable Hardware</title>
-      <link>/publication/smi/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/smi/</guid>
       <description></description>
     </item>
     
