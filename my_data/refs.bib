@@ -1,0 +1,516 @@
+% Encoding: UTF-8
+
+
+@article{noise_cloud,
+  author={Daniele De Sensi and Tiziano De Matteis and Konstantin Taranov and Salvatore Di Girolamo and Tobias Rahn and Torsten Hoefler},
+  title={{Noise in the Clouds: Influence of Network Performance Variability on Application Scalability}},
+  journal={Proc. ACM Meas. Anal. Comput. Syst.},
+  year={2022},
+  month={Dec.},
+  volume={6},
+  number={3},
+  location={New York, NY, USA},
+  publisher={Association for Computing Machinery},
+}
+
+@inproceedings{double_pumping,
+  author    = {Carl{-}Johannes Johnsen and
+  						 Tiziano De Matteis
+               Tal Ben{-}Nun and
+               Johannes de Fine Licht and
+               Torsten Hoefler},
+  title = {Temporal Vectorization: A Compiler Approach to Automatic Multi-Pumping},
+  month={Oct},
+  year={2022},
+	booktitle={Proceedings of the International Conference on Computer-Aided Design (ICCAD22)},
+  abstract = { The multi-pumping resource sharing technique can overcome the limitations commonly found in single-clocked FPGA designs by allowing hardware components to operate at a higher clock frequency than the surrounding system. However, this optimization cannot be expressed in high levels of abstraction, such as HLS, requiring the use of hand-optimized RTL. In this paper we show how to leverage multiple clock domains for computational subdomains on reconfigurable devices through data movement analysis on high-level programs.  We offer a novel view on multi-pumping as a compiler optimization --- a superclass of traditional vectorization. As multiple data elements are fed and consumed, the computations are packed temporally rather than spatially. The optimization is applied automatically using an intermediate representation that maps high-level code to HLS. Internally, the optimization injects modules into the generated designs, incorporating RTL for fine-grained control over the clock domains. We obtain a reduction of resource consumption by up to 50\% on critical components and 23\% on average. For scalable designs, this can enable further parallelism, increasing overall performance. }
+}
+
+@inproceedings{data_centric_python,
+  author    = {Alexandros Nikolaos Ziogas and
+               Timo Schneider and
+               Tal Ben{-}Nun and
+               Alexandru Calotoiu and
+               Tiziano De Matteis and
+               Johannes de Fine Licht and
+               Luca Lavarini and
+               Torsten Hoefler},
+  title = {Productivity, Portability, Performance: Data-Centric Python},
+  month={Nov},
+  year={2021},
+	booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC21)},
+  abstract = {Python has become the de facto language for scientific computing. Programming in Python is highly productive, mainly due to its rich science-oriented software ecosystem built around the NumPy module. As a result, the demand for Python support in High Performance Computing (HPC) has skyrocketed. However, the Python language itself does not necessarily offer high performance. In this work, we present a workflow that retains Python's high productivity while achieving portable performance across different architectures. The workflow's key features are HPC-oriented language extensions and a set of automatic optimizations powered by a data-centric intermediate representation. We show performance results and scaling across CPU, GPU, FPGA, and the Piz Daint supercomputer (up to 23,328 cores), with 2.47x and 3.75x speedups over previous-best solutions, first-ever Xilinx and Intel FPGA results of annotated Python, and up to 93.16% scaling efficiency on 512 nodes.}
+}
+
+@inproceedings{stencilflow,
+  author={Johannes de Fine Licht and Andreas Kuster and Tiziano De Matteis and Tal Ben-Nun and Dominic Hofer and Torsten Hoefler},
+  title={{StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems}},
+  year={2021},
+  booktitle={Proceedings of the 19th ACM/IEEE International Symposium on Code Generation and Optimization (CGO'21)},
+  abstract={Spatial computing devices have been shown to significantly accelerate stencil computations, but have so far relied on unrolling the iterative dimension of a single stencil operation to increase temporal locality. This work considers the general case of mapping directed acyclic graphs of heterogeneous stencil computations to spatial computing systems, assuming large input programs without an iterative component. StencilFlow maximizes temporal locality and ensures deadlock freedom in this setting, providing end-to-end analysis and mapping from a high-level program description to distributed hardware. We evaluate our generated architectures on a Stratix 10 FPGA testbed, yielding 1.31 TOp/s and 4.18 TOp/s on single-device and multi-device, respectively, demonstrating the highest performance recorded for stencil programs on FPGAs to date. We then leverage the framework to study a complex stencil program from a production weather simulation application. Our work enables productively targeting distributed spatial computing systems with large stencil programs, and offers insight into architecture characteristics required for their efficient execution in practice.}
+}
+
+
+@inproceedings{fblas,
+	author={Tiziano De Matteis and Johannes de Fine Licht and and Torsten Hoefler},
+	title={ FBLAS: Streaming Linear Algebra on FPGA},
+	year={2020},
+	month={Nov},
+	booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC20)},
+	abstract={Spatial computing architectures pose an attractive alternative to mitigate control and data movement overheads typical of load-store architectures. In practice, these devices are rarely considered in the HPC community due to the steep learning curve, low productivity, and the lack of available libraries for fundamental operations. High-level synthesis (HLS) tools are facilitating hardware programming, but optimizing for these architectures requires factoring in new transformations and resources/performance trade-offs. We present FBLAS, an open-source HLS implementation of BLAS for FPGAs, that enables reusability, portability and easy integration with existing software and hardware codes. FBLAS' implementation allows scaling hardware modules to exploit on-chip resources, and module interfaces are designed to natively support streaming on-chip communications, allowing them to be composed to reduce off-chip communication. With FBLAS, we set a precedent for FPGA library design, and contribute to the toolbox of customizable hardware components necessary for HPC codes to start productively targeting reconfigurable platforms.},
+}
+
+@inproceedings{smi,
+	author={Tiziano De Matteis and Johannes de Fine Licht and Jakub Beránek and Torsten Hoefler},
+	title={{Streaming Message Interface: High-Performance DistributedMemory Programming on Reconfigurable Hardware}},
+	year={2019},
+	month={Nov},
+	isbn = {9781450362290},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3295500.3356201},
+	doi = {10.1145/3295500.3356201},
+	booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC19)},
+	abstract={Distributed memory programming is the established paradigm used in high-performance computing (HPC) systems, requiring explicit communication between nodes and devices. When FPGAs are deployed in distributed settings, communication is typically handled either by going through the host machine, sacrificing performance, or by streaming across fixed device-to-device connections, sacrificing flexibility. We present Streaming~Message~Interface~(SMI), a communication model and API that unifies explicit message passing with a hardware-oriented programming model, facilitating minimal-overhead, flexible, and productive inter-FPGA communication. Instead of bulk transmission, messages are streamed across the network during computation, allowing communication to be seamlessly integrated into pipelined designs. We present a high-level synthesis implementation of SMI targeting a dedicated FPGA interconnect, exposing runtime-configurable routing with support for arbitrary network topologies, and implement a set of distributed memory benchmarks. Using SMI, programmers can implement distributed, scalable HPC programs on reconfigurable hardware, without deviating from best practices for hardware design.},
+}
+
+@ARTICLE{gasser,
+	author={De Matteis, Tiziano and Mencagli, Gabriele and De Sensi, Daniele and Torquati, Massimo and Danelutto, Marco},
+	journal={IEEE Access},
+	title={GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs},
+	volume={7},
+	number={},
+	pages={48753-48769},
+	doi={10.1109/ACCESS.2019.2910312},
+	ISSN={2169-3536},
+	year = {2019},
+	month={April},
+	openaccess={https://ieeexplore.ieee.org/document/8688411},
+	abstract={Today's stream processing systems handle high-volume data streams in an efficient manner. To achieve this goal, they are designed to scale out on large clusters of commodity machines. However, despite the efficient use of distributed architectures, they lack support to co-processors like graphical processing units (GPUs) ready to accelerate data-parallel tasks. The main reason for this lack of integration is that GPU processing and the streaming paradigm have different processing models, with GPUs needing a bulk of data present at once while the streaming paradigm advocates a tuple-at-a-time processing model. This paper contributes to fill this gap by proposing Gasser, a system for offloading the execution of sliding-window operators on GPUs. The system focuses on completely general functions by targeting the parallel processing of non-incremental queries that are not supported by the few existing GPU-based streaming prototypes. Furthermore, Gasser provides an auto-tuning approach able to automatically find the optimal value of the configuration parameters (i.e., batch length and the degree of parallelism) needed to optimize throughput and latency with the given query and data stream. The experimental part assesses the performance efficiency of Gasser by comparing its peak throughput and latency against Apache Flink, a popular and scalable streaming system. Furthermore, we evaluate the penalty induced by supporting completely general queries against the performance achieved by the state-of-the-art solution specifically optimized for incremental queries. Finally, we show the speed and accuracy of the auto-tuning approach adopted by Gasser, which is able to self-configure the system by finding the right configuration parameters without manual tuning by the users.},
+} 
+
+@inproceedings{kdd:18,
+	author = {Conte, Alessio and De Matteis, Tiziano and De Sensi, Daniele and Grossi, Roberto and Marino, Andrea and Versari, Luca},
+	title = {D2K: Scalable Community Detection in Massive Networks via Small-Diameter k-Plexes},
+	booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+	series = {KDD '18},
+	year = {2018},
+	isbn = {978-1-4503-5552-0},
+	location = {London, United Kingdom},
+	pages = {1272--1281},
+	numpages = {10},
+	url = {http://doi.acm.org/10.1145/3219819.3220093},
+	doi = {10.1145/3219819.3220093},
+	acmid = {3220093},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {community discovery, graph enumeration, k-plexes, parallel programming},
+	openaccess = {https://dl.acm.org/authorize?N666390},
+	abstract = {This paper studies kplexes, a well known pseudo-clique model for network communities. In a kplex, each node can miss at most $k-1$ links. Our goal is to detect large communities in today's real-world graphs which can have hundreds of millions of edges. While many have tried, this task has been elusive so far due to its computationally challenging nature: kplexes and other pseudo-cliques are harder to find and more numerous than cliques, a well known hard problem. We present D2K, which is the first algorithm able to find large kplexes of very large graphs in just a few minutes. The good performance of our algorithm follows from a combination of graph-theoretical concepts, careful algorithm engineering and a high-performance implementation. In particular, we exploit the low degeneracy of real-world graphs, and the fact that large enough kplexes have diameter~2. We validate a sequential and a parallel/distributed implementation of D2K on real graphs with up to half a billion edges.},
+	videopitch = {https://www.youtube.com/watch?v=zF2Hz1wq9eM},
+	pdf = {http://pages.di.unipi.it/desensi/assets/pdf/2018_KDD.pdf},
+}
+@inproceedings{kdd:18,
+	author = {Conte, Alessio and De Matteis, Tiziano and De Sensi, Daniele and Grossi, Roberto and Marino, Andrea and Versari, Luca},
+	title = {D2K: Scalable Community Detection in Massive Networks via Small-Diameter k-Plexes},
+	booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+	series = {KDD '18},
+	year = {2018},
+	isbn = {978-1-4503-5552-0},
+	location = {London, United Kingdom},
+	pages = {1272--1281},
+	numpages = {10},
+	url = {http://doi.acm.org/10.1145/3219819.3220093},
+	doi = {10.1145/3219819.3220093},
+	acmid = {3220093},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {community discovery, graph enumeration, k-plexes, parallel programming},
+	openaccess = {https://dl.acm.org/authorize?N666390},
+	abstract = {This paper studies kplexes, a well known pseudo-clique model for network communities. In a kplex, each node can miss at most $k-1$ links. Our goal is to detect large communities in today's real-world graphs which can have hundreds of millions of edges. While many have tried, this task has been elusive so far due to its computationally challenging nature: kplexes and other pseudo-cliques are harder to find and more numerous than cliques, a well known hard problem. We present D2K, which is the first algorithm able to find large kplexes of very large graphs in just a few minutes. The good performance of our algorithm follows from a combination of graph-theoretical concepts, careful algorithm engineering and a high-performance implementation. In particular, we exploit the low degeneracy of real-world graphs, and the fact that large enough kplexes have diameter~2. We validate a sequential and a parallel/distributed implementation of D2K on real graphs with up to half a billion edges.}
+}
+@article{nornir:fgcs18,
+	title = {Simplifying self-adaptive and power-aware computing with Nornir},
+	journal = {Future Generation Computer Systems},
+	volume = {},
+	number = {},
+	pages = { - },
+	year = {2018},
+	note = {},
+	issn = {0167-739X},
+	doi = {https://doi.org/10.1016/j.future.2018.05.012},
+	url = {https://www.sciencedirect.com/science/article/pii/S0167739X17326699},
+	pdf = {http://pages.di.unipi.it/desensi/assets/pdf/2018_FGCS.pdf},
+	author = {De Sensi, Daniele and De Matteis, Tiziano and Danelutto, Marco},
+	keywords = {Self-adaptive, Power-aware, Quality of service, Data stream processing, Fog computing, Parallel computing},
+	abstract = {Self-adaptation is an emerging requirement in parallel computing. It enables the dynamic selection of resources toallocate to the application in order to meet performance and power consumption requirements. This is particularly relevant in Fog Applications, where data is generated by a number of devices at a varying rate, according to users’ activity. By dynamically selecting the appropriate number of resources it is possible, for example, to use at each time step the minimum amount of resources needed to process the incoming data. Implementing such kind of algorithms may be a complex task, due to low-level interactions with the underlying hardware and to non-intrusive and low-overhead monitoring of the applications. For these reasons, in this paper we propose Nornir, a C++-based framework, which can be used to enforce performance and power consumption constraints on parallel applications running on shared memory multicores. The framework can be easily customized by algorithm designers to implement new self-adaptive policies. By instrumenting the applications in the \{PARSEC\} benchmark, we provide to strategy designers a wide set of applications already interfaced to Nornir. In addition to this, to prove its flexibility, we implemented and compared several state-of-the-art existing policies, showing that Nornir can also be used to easily analyze different algorithms and to provide useful insights on them.},
+} 
+
+@inproceedings{cafpdp18,
+abstract = {In this work, we consider the C++ Actor Framework (CAF), a recent proposal that revamped the interest in building concurrent and distributed applications using the actor programming model in C++. CAF has been optimized for high-throughput computing, whereas message latency between actors is greatly influenced by the message data rate: at low and moderate rates the latency is higher than at high data rates. To this end, we propose a modification of the polling strategies in the work-stealing CAF scheduler, which can reduce message latency at low and moderate data rates up to two orders of magnitude without compromising the overall throughput and message latency at maximum pressure. The technique proposed uses a lightweight event notification protocol that is general enough to be used used to optimize the runtime of other frameworks experiencing similar issues.},
+author = {Torquati, Massimo and Menga, Tullio and De Matteis, Tiziano and De Sensi, Daniele and Mencagli, Gabriele},
+booktitle = {Proceedings of the 26th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, {PDP} 2018},
+location = {Cambridge, United Kingdom},
+title = {Reducing Message Latency and CPU Utilization in the CAF Actor Framework},
+year = {2018},
+toappear = {},
+} 
+
+@InProceedings{sac17,
+  author =    {Danelutto, Marco and De Matteis, Tiziano and De Sensi, Daniele and Mencagli, Gabriele and Torquati, Massimo},
+  title =     {P$^{3}$ARSEC: Towards Parallel Patterns Benchmarking},
+  booktitle = {Proceedings of the 32nd Annual ACM Symposium on Applied Computing},
+  year =      {2017},
+  series =    {SAC '17},
+  pages =     {1582--1589},
+  address =   {New York, NY, USA},
+  publisher = {ACM},
+  abstract =  {High-level parallel programming is a de-facto standard approach to develop parallel software with reduced time to development. High-level abstractions are provided by existing frameworks as pragma-based annotations in the source code, or through pre-built parallel patterns that recur frequently in parallel algorithms, and that can be easily instantiated by the programmer to add a structure to the development of parallel software. In this paper we focus on this second approach and we propose P3ARSEC, a benchmark suite for parallel pattern-based frameworks consisting of a representative subset of PARSEC applications. We analyse the programmability advantages and the potential performance penalty of using such high-level methodology with respect to hand-made parallelisations using low-level mechanisms. The results are obtained on the new Intel Knights Landing multicore, and show a significantly reduced code complexity with comparable performance.},
+  acmid =     {3019745},
+  doi =       {10.1145/3019612.3019745},
+  isbn =      {978-1-4503-4486-9},
+  keywords =  {Parallel Patterns, PARSEC Benchmarks, Intel KNL},
+  location =  {Marrakesh, Morocco},
+  numpages =  {8},
+  slides =    {https://docs.google.com/presentation/d/1tbGK13EGookcV1HvVbup2Rx1HlH65t4tsbhIuaoS3tA/edit#slide=id.g1b7a7fa945_0_14},
+  url =       {http://dl.acm.org/authorize?N34889}
+}
+
+@InProceedings{dasp:pdp17,
+  author =    {De Matteis, Tiziano and Mencagli, Gabriele},
+  title =     {Elastic Scaling for Distributed Latency-sensitive Data Stream Operators},
+  booktitle = {Proceedings of the 25th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, {PDP} 2017},
+  year =      {2017},
+  abstract =  {High-volume data streams are straining the limits of stream processing frameworks which need advanced parallel processing capabilities to withstand the actual incoming bandwidth.
+Parallel processing must be synergically integrated with elastic features in order dynamically scale the amount of utilized resources by accomplishing the Quality of Service goals in a costeffective
+manner. This paper proposes a control-theoretic strategy to drive the elastic behavior of latency-sensitive streaming operators in distributed environments. The strategy takes scaling
+decisions in advance by relying on a predictive model-based approach. Our ideas have been experimentally evaluated on a cluster using a real-world streaming application fed by synthetic
+and real datasets. The results show that our approach takes the strictly necessary reconfigurations while providing reduced resource consumption. Furthermore, it allows the operator to
+meet desired average latency requirements with a significant reduction in the experienced latency jitter.},
+  location =  {St. Petersburg, Russia},
+  slides =    {https://docs.google.com/presentation/d/1QwB0-7STgB6BF9q_GPJBf1lYjuiQ9FCPmvg-xWIJAGI/edit?usp=sharing}
+}
+
+@InProceedings{pdp17,
+  author =    {Danelutto, Marco and De Matteis, Tiziano and De Sensi, Daniele and Torquati, Massimo},
+  title =     {Evaluating Concurrency Throttling and Thread Packing on SMT Multicores},
+  booktitle = {Proceedings of the 25th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, {PDP} 2017},
+  year =      {2017},
+  pages =     {219-223},
+  abstract =  {Power-aware computing is gaining an increasing attention both in academic and industrial settings. The problem of guaranteeing a given
+QoS requirement (either in terms of performance or power consumption) can be faced by selecting and dynamically adapting the amount of physical
+and logical resources used by the application. In this study, we considered standard multicore platforms by taking as a reference approaches for power-aware
+computing two well-known dynamic reconfiguration techniques: Concurrency Throttling and Thread Packing. Furthermore, we also studied the impact of using simultaneous
+multithreading (e.g., Intel’s HyperThreading) in both techniques. In this work, leveraging on the applications of the PARSEC benchmark suite, we evaluate these
+techniques by considering performance-power trade-offs, resource efficiency, predictability and required programming effort. The results show that, according to the
+comparison criteria, these techniques complement each other.},
+  doi =       {10.1109/PDP.2017.39},
+  location =  {St. Petersburg, Russia}
+}
+
+@inproceedings{seps16,
+	author = {Danelutto, Marco and De Matteis, Tiziano and Mencagli, Gabriele and Torquati, Massimo},
+	title = {A Divide-and-conquer Parallel Pattern Implementation for Multicores},
+	booktitle = {Proceedings of the 3rd International Workshop on Software Engineering for Parallel Systems},
+	series = {SEPS 2016},
+	year = {2016},
+	isbn = {978-1-4503-4641-2},
+	location = {Amsterdam, Netherlands},
+	pages = {10--19},
+	numpages = {10},
+	url = {http://doi.acm.org/10.1145/3002125.3002128},
+	doi = {10.1145/3002125.3002128},
+	acmid = {3002128},
+	publisher = {ACM},
+	address = {New York, NY, USA},
+	keywords = {Divide and Conquer, High-level parallel patterns}
+}
+
+@Article{jss17,
+  author =   {De Matteis, Tiziano and Mencagli, Gabriele},
+  title =    {Proactive elasticity and energy awareness in data stream processing },
+  journal =  {Journal of Systems and Software },
+  year =     {2017},
+  volume =   {127},
+  pages =    {302 - 319},
+  abstract = {Abstract Data stream processing applications have a long running nature (24 hr/7 d) with workload conditions that may exhibit wide variations at run-time. Elasticity is the term coined to describe the capability of applications to change dynamically their resource usage in response to workload fluctuations. This paper focuses on strategies for elastic data stream processing targeting multicore systems. The key idea is to exploit Model Predictive Control, a control-theoretic method that takes into account the system behavior over a future time horizon in order to decide the best reconfiguration to execute. We design a set of energy-aware proactive strategies, optimized for throughput and latency QoS requirements, which regulate the number of used cores and the \{CPU\} frequency through the Dynamic Voltage and Frequency Scaling (DVFS) support offered by modern multicore CPUs. We evaluate our strategies in a high-frequency trading application fed by synthetic and real-world workload traces. We introduce specific properties to effectively compare different elastic approaches, and the results show that our strategies are able to achieve the best outcome. },
+  doi =      {http://dx.doi.org/10.1016/j.jss.2016.08.037},
+  issn =     {0164-1212},
+  keywords = {Data stream processing},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0164121216301467}
+}
+
+
+@Article{js2016,
+author="Danelutto, Marco and De Matteis, Tiziano and Mencagli, Gabriele and Torquati, Massimo",
+title="Data stream processing via code annotations",
+journal="The Journal of Supercomputing",
+year="2016",
+pages="1--15",
+abstract="Time-to-solution is an important metric when parallelizing existing code. The REPARA approach provides a systematic way to instantiate stream and data parallel patterns by annotating the sequential source code with Cpp11 attributes. Annotations are automatically transformed in a target parallel code that uses existing libraries for parallel programming (e.g., FastFlow). In this paper, we apply this approach for the parallelization of a data stream processing application. The description shows the effectiveness of the approach in easily and quickly prototyping several parallel variants of the sequential code by obtaining good overall performance in terms of both throughput and latency.",
+issn="1573-0484",
+doi="10.1007/s11227-016-1793-9",
+url="http://dx.doi.org/10.1007/s11227-016-1793-9"
+}
+
+@Article{ccpe2016,
+  author =   {De Matteis, Tiziano and Di Girolamo, Salvatore and Mencagli, Gabriele},
+  title =    {Continuous Skyline Queries on Multicore Architectures},
+  journal =  {Concurrency and Computation: Practice and Experience},
+  year =     {2016},
+  volume =   {28},
+  number =   {12},
+  pages =    {3503--3522},
+  abstract = {The emergence of real-time decision-making applications in domains like high-frequency trading,
+emergency management and service level analysis in communication networks, has led to the definition
+of new classes of queries. Skyline queries are a notable example. Their results consist of all the tuples whose
+attribute vector is not dominated (in the Pareto sense) by one of any other tuple. Because of their popularity,
+skyline queries have been studied in terms of both sequential algorithms and parallel implementations for
+multiprocessors and clusters. Within the Data Stream Processing paradigm, traditional database queries
+on static relations have been revised in order to operate on continuous data streams. Most of the past
+papers propose sequential algorithms for continuous skyline queries, whereas there exist very few works
+targeting implementations on parallel machines. This paper contributes to fill this gap by proposing a parallel
+implementation for multicore architectures. We propose: i) a parallelization of the eager algorithm based on
+the notion of Skyline Influence Time, ii) optimizations of the reduce phase and load-balancing strategies to
+achieve near-optimal speedup, iii) a set of experiments with both synthetic benchmarks and a real dataset in
+order to show our implementation effectiveness},
+  doi =      {10.1002/cpe.3866},
+  issn =     {1532-0634},
+  url =      {http://dx.doi.org/10.1002/cpe.3866}
+}
+
+@Article{ijpp17,
+  author =   {De Matteis, Tiziano and Mencagli, Gabriele},
+  title =    {Parallel Patterns for Window-Based Stateful Operators on Data Streams: An Algorithmic Skeleton Approach},
+  journal =  {International Journal of Parallel Programming},
+  year =     {2017},
+  volume =   {45},
+  number =   {2},
+  pages =    {382--401},
+  month =    {Apr},
+  abstract = {The topic of Data Stream Processing is a recent and highly active research area dealing with the in-memory, tuple-by-tuple analysis of streaming data. Continuous queries typically consume huge volumes of data received at a great velocity. Solutions that persistently store all the input tuples and then perform off-line computation are impractical. Rather, queries must be executed continuously as data cross the streams. The goal of this paper is to present parallel patterns for window-based stateful operators, which are the most representative class of stateful data stream operators. Parallel patterns are presented ``{\`a} la'' Algorithmic Skeleton, by explaining the rationale of each pattern, the preconditions to safely apply it, and the outcome in terms of throughput, latency and memory consumption. The patterns have been implemented in the {\$}{\$}{\backslash}mathtt {\{}FastFlow{\}}{\$}{\$} FastFlow framework targeting off-the-shelf multicores. To the best of our knowledge this is the first time that a similar effort to merge the Data Stream Processing domain and the field of Structured Parallelism has been made.},
+  day =      {01},
+  doi =      {10.1007/s10766-016-0413-x},
+  issn =     {1573-7640},
+  slides =   {https://docs.google.com/presentation/d/1yhsSff97f434wR-VA1szlqKxx52YMYKkdw1GVkBDyF8/edit?usp=sharing},
+  url =      {https://doi.org/10.1007/s10766-016-0413-x}
+}
+
+@INPROCEEDINGS{europar2015,
+   author = {De Matteis,Tiziano and Di Girolamo, Salvatore and Mencagli,Gabriele},
+   booktitle={Proceedings of the 2015 International Conference on Parallel Processing (Euro-Par)}, 
+     title={A Multicore Parallelization of Continuous Skyline Queries on Data Streams}, 
+   year={2015}, 
+   pages={402--413},  
+   doi={}, 
+   address={Vienna, Austria},
+}
+
+@INPROCEEDINGS{repara2015,
+   author = {Danelutto,Marco and De Matteis,Tiziano and Mencagli,Gabriele and Torquati,Massimo},
+   booktitle={Proceedings of the first IEEE International Workshop on Reengineering for Parallelism in Heterogeneous Parallel Platforms}, 
+   title={Parallelizing High-Frequency Trading Applications by using C++ 11 Attributes}, 
+   year={2015}, 
+   volume={3}, 
+   pages={140-147},  
+   doi={10.1109/Trustcom.2015.623}, 
+   address={Helsinki, Finland},
+}
+
+
+
+
+@INPROCEEDINGS{pdp2014,
+   author = {Buono,Daniele and De Matteis,Tiziano and Mencagli,Gabriele and Vanneschi,Marco},
+   booktitle={Parallel, Distributed and Network-Based Processing (PDP), 2014 22nd Euromicro International Conference on}, 
+   title={Optimizing Message-Passing on Multicore Architectures Using Hardware Multi-threading}, 
+   year={2014}, 
+   address={Torino, Italy},
+   pages={262-270},  
+   doi={10.1109/PDP.2014.63}, 
+   ISSN={1066-6192}
+   }
+ 
+@INPROCEEDINGS{ispa2014,
+   author = {Buono,Daniele and De Matteis,Tiziano and Mencagli,Gabriele},
+   booktitle={12th IEEE International Symposium on Parallel and Distributed Processing with Applications}, 
+   title={A High-Throughput and Low-Latency Parallelization of Window-based Stream Joins on Multicores}, 
+   year = {2014},
+ isbn = {978-1-4799-4293-0},
+ pages = {117--126},
+ numpages = {10},
+ url = {http://dx.doi.org/10.1109/ISPA.2014.24},
+ doi = {10.1109/ISPA.2014.24},
+ acmid = {2681942},
+ publisher = {IEEE Computer Society},
+   address={Milano, Italy}
+}
+
+@INPROCEEDINGS{hpcs2014,
+   author = {De Matteis,Tiziano},
+   booktitle={High Performance Computing Simulation (HPCS), 2014 International Conference on}, 
+   title={Autonomic Parallel Data Stream Processing}, 
+   title={Autonomic parallel Data Stream Processing}, 
+   year={2014}, 
+   month={July}, 
+   pages={995-998},  
+   address={Bologna, Italy},
+   doi={10.1109/HPCSim.2014.6903797}
+}
+
+
+@INPROCEEDINGS{pdcn2013,
+  author = { {De Matteis}, Tiziano and Luporini, Fabio and Mencagli, Gabriele and Vanneschi, Marco},
+  title = {Evaluation of Architectural Supports for Fine-Grained Synchronization
+	Mechanisms},
+  booktitle = {Proceedings of the 11th IASTED International Conference on Parallel
+	and Distributed Computing and Networks},
+  year = {2013},
+  address = {Innsbruck, Austria},
+  publisher = {Iasted},
+  abstract = {The advent of multi-/many-core architectures demands efficient run-time
+	supports to sustain parallel applications scalability. Synchronization
+	mechanisms should be optimized in order to account for different
+	scenarios, such as the interaction between threads executed on different
+	cores as well as intra-core synchronization, i.e. involving threads
+	executed on hardware contexts of the same core. In this perspective,
+	we describe the design issues of two notable mechanisms for shared-memory
+	parallel computations. We point out how specific architectural supports,
+	like hardware cache coherence and core-to-core interconnection networks,
+	make it possible to design optimized implementations of such mechanisms.
+	In this paper we discuss experimental results on three representative
+	architectures: a flagship Intel multi-core and two interesting network
+	processors. The final result helps to untangle the complex implementation
+	space of synchronization mechanisms.},
+  isbn = {978-088986943-1},
+  reviews = {[[reviews_pdcn_2013| Reviews PDCN 2013 ]]}
+}
+
+@INPROCEEDINGS{pdcn2014,
+     author = {Buono,Daniele and Danelutto, Marco and De Matteis,Tiziano and Mencagli,Gabriele and Torquati, Massimo},
+      title = {A Lightweight Run-Time Support for Fast Dense Linear Algebra on Multi-Core},
+  booktitle = {Proceedings of 12th IASTED International Conference on Parallel and Distributed Computing and Networks},
+       year = {2014},
+   publisher = {Iasted},
+    address = {Innsbruck, Austria},
+    abstract = {The work proposes ffMDF, a lightweight dynamic run-time support able to achieve high performance in the execution of dense linear algebra kernels on shared-cache multi-core. ffMDF implements a dynamic macro-dataflow interpreter processing DAG graphs generated on-the-fly out of standard numeric kernel code. The experimental results demonstrate that the performance obtained using ffMDF on both fine-grain and coarse-grain problems is comparable with or even better than that achieved by de-facto standard solutions (notably PLASMA library), which use separate run-time supports specifically optimised for different computational grains on modern multi-core.}
+}
+
+@Article{rephrase:ijpp17,
+author="Danelutto, Marco
+and De Matteis, Tiziano
+and De Sensi, Daniele
+and Mencagli, Gabriele
+and Torquati, Massimo
+and Aldinucci, Marco
+and Kilpatrick, Peter",
+title="The RePhrase Extended Pattern Set for Data Intensive Parallel Computing",
+journal="International Journal of Parallel Programming",
+year="2017",
+month="Nov",
+day="28",
+abstract="We discuss the extended parallel pattern set identified within the EU-funded project RePhrase as a candidate pattern set to support data intensive applications targeting heterogeneous architectures. The set has been designed to include three classes of pattern, namely (1) core patterns, modelling common, not necessarily data intensive parallelism exploitation patterns, usually to be used in composition; (2) high level patterns, modelling common, complex and complete parallelism exploitation patterns; and (3) building block patterns, modelling the single components of data intensive applications, suitable for use---in composition---to implement patterns not covered by the core and high level patterns. We discuss the expressive power of the RePhrase extended pattern set and results illustrating the performances that may be achieved with the FastFlow implementation of the high level patterns.",
+issn="1573-7640",
+doi="10.1007/s10766-017-0540-z",
+openaccess="http://rdcu.be/zN6c",
+url="https://doi.org/10.1007/s10766-017-0540-z"
+} 
+
+@article{p3arsec:taco17,
+author = {De Sensi, Daniele and De Matteis, Tiziano and Torquati, Massimo and Mencagli, Gabriele and Danelutto, Marco},
+title = {Bringing Parallel Patterns Out of the Corner: The P$^{3}$ARSEC Benchmark Suite},
+journal = {ACM Trans. Archit. Code Optim.},
+issue_date = {October 2017},
+volume = {14},
+number = {4},
+month = oct,
+year = {2017},
+issn = {1544-3566},
+pages = {33:1--33:26},
+articleno = {33},
+numpages = {26},
+url = {http://doi.acm.org/10.1145/3132710},
+openaccess = {http://dl.acm.org/authorize?N49996},
+pdf = {http://pages.di.unipi.it/desensi/assets/pdf/2017_TACO.pdf},
+doi = {10.1145/3132710},
+acmid = {3132710},
+publisher = {ACM},
+address = {New York, NY, USA},
+keywords = {Parallel patterns, algorithmic skeletons, benchmarking, multicore programming, parsec},
+poster = {http://pages.di.unipi.it/desensi/assets/pdf/2017_TACO_Poster.pdf},
+abstract = {High-level parallel programming is an active research topic aimed at promoting parallel programming methodologies that provide the programmer with high-level abstractions to develop complex parallel software with reduced time to solution. Pattern-based parallel programming is based on a set of composable and customizable parallel patterns used as basic building blocks in parallel applications. In recent years, a considerable effort has been made in empowering this programming model with features able to overcome shortcomings of early approaches concerning flexibility and performance. In this article, we demonstrate that the approach is flexible and efficient enough by applying it on 12 out of 13 PARSEC applications. Our analysis, conducted on three different multicore architectures, demonstrates that pattern-based parallel programming has reached a good level of maturity, providing comparable results in terms of performance with respect to both other parallel programming methodologies based on pragma-based annotations (i.e., Openmp and OmpSs) and native implementations (i.e., Pthreads). Regarding the programming effort, we also demonstrate a considerable reduction in lines of code and code churn compared to Pthreads and comparable results with respect to other existing implementations.},
+} 
+
+@InProceedings{nornir:autodasp17,
+  author =    {De Sensi, Daniele and De Matteis, Tiziano and Danelutto, Marco},
+  title =     {Nornir: A Customisable Framework for Autonomic and Power-Aware Applications},
+  booktitle = {Euro-Par 2017 Workshops, Proc. of the Auto-DaSP Workshop},
+  year =      {2017},
+  abstract =  {A desirable characteristic of modern parallel applications
+is the ability to dynamically select the amount of resources to be
+used to meet requirements on performance or power consumption.
+In many cases, providing explicit guarantees
+on performance is of paramount importance.
+In streaming applications, this is related with the
+concept of elasticity, i.e. being able to allocate
+the proper amount of resources to match the current demand
+as closely as possible. Similarly, in other scenarios, it may be useful
+to limit the maximum power consumption of an application to do
+not exceed the available power budget.
+In this paper we propose Nornir, a customizable
+C++ framework for autonomic and power-aware parallel applications on shared memory multicore machines. Nornir can be used by autonomic strategy designers
+to implement new algorithms and by application users to enforce
+requirements on their applications.},
+  slides =    {https://docs.google.com/presentation/d/1PJ9gn_jIdApjrK1-wB3gnAB2PPYOsocxrqMTB96HI2E/edit?usp=sharing}
+}
+
+@Article{jsc17,
+  author =   {Torquati, Massimo and Mencagli, Gabriele and Drocco, Maurizio and Aldinucci, Marco and De Matteis, Tiziano and Danelutto, Marco},
+  title =    {On dynamic memory allocation in sliding-window parallel patterns for streaming analytics},
+  journal =  {The Journal of Supercomputing},
+  year =     {2017},
+  month =    {Sep},
+  abstract = {This work studies the issues related to dynamic memory management in Data Stream Processing, an emerging paradigm enabling the real-time processing of live data streams. In this paper, we consider two streaming parallel patterns and we discuss different implementation variants related to how dynamic memory is managed. The results show that the standard mechanisms provided by modern C++ are not entirely adequate for maximizing the performance. Instead, the combined use of an efficient general purpose memory allocator, a custom allocator optimized for the pattern considered and a custom variant of the C++ shared pointer mechanism, provides a performance improvement up to 16{\%} on the best case.},
+  day =      {27},
+  doi =      {10.1007/s11227-017-2152-1},
+  issn =     {1573-0484},
+  url =      {https://doi.org/10.1007/s11227-017-2152-1}
+}
+
+@InProceedings{ppopp2016,
+  author =    {De Matteis,Tiziano and Mencagli,Gabriele},
+  title =     {Keep Calm and React with Foresight: Strategies for Low-Latency and Energy-Efficient Elastic Data Stream Processing},
+  booktitle = {Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)},
+  year =      {2016},
+  pages =     {13:1--13:12},
+  abstract =  {This paper addresses the problem of designing control strategies for elastic stream processing applications. Elasticity allows applications to rapidly change their configuration (e.g. the number of used resources) on-the-fly, in response to fluctuations of their workload. In this work we face this problem by adopting the Model Predictive Control technique, a control-theoretic method aimed at finding the optimal application configuration along a limited prediction horizon by solving an online optimization problem. Our control strategies are designed to address latency constraints, by using Queueing Theory models, and energy consumption by changing the number of used cores and the CPU frequency through the Dynamic Voltage and Frequency Scaling (DVFS) function of modern multi-core CPUs. The proactive capabilities, in addition to the latency- and energy-awareness, represent the novel features of our approach. Experiments performed using a high-frequency trading application show the effectiveness compared with state-of-the-art techniques.},
+  articleno = {13},
+  awards =    {The paper has passed the Artifact Evaluation},
+  doi =       {10.1145/2851141.2851148},
+  isbn =      {978-1-4503-4092-2},
+  location =  {Barcelona, Spain},
+  numpages =  {12},
+  slides =    {https://docs.google.com/presentation/d/1VZ3y3RQDLFi_xA7Rl0Vj1iqBdoerxCMG4y53uMz9Ziw/edit?usp=sharing},
+  url =       {http://doi.acm.org/10.1145/2851141.2851148}
+}
+
+@PhdThesis{dematteis_phd16,
+  author = {De Matteis, Tiziano},
+  title =  {Parallel Patterns for Adaptive Data Stream Processing},
+  school = {University of Pisa},
+  year =   {2016}
+}
+
+@Article{tpds17,
+  author =   {Mencagli, Gabriele and Torquati, Massimo and Danelutto, Marco and De Matteis, Tiziano},
+  title =    {Parallel Continuous Preference Queries over Out-of-Order and Bursty Data Streams},
+  journal =  {IEEE Transactions on Parallel and Distributed Systems},
+  year =     {2017},
+  volume =   {28},
+  number =   {9},
+  pages =    {2608-2624},
+  month =    {Sept},
+  abstract = {Techniques to handle traffic bursts and out-of-order arrivals are of paramount importance to provide real-time sensor data analytics in domains like traffic surveillance, transportation management, healthcare and security applications. In these systems the amount of raw data coming from sensors must be analyzed by continuous queries that extract value-added information used to make informed decisions in real-time. To perform this task with timing constraints, parallelism must be exploited in the query execution in order to enable the real-time processing on parallel architectures. In this paper we focus on continuous preference queries, a representative class of continuous queries for decision making, and we propose a parallel query model targeting the efficient processing over out-of-order and bursty data streams. We study how to integrate punctuation mechanisms in order to enable out-of-order processing. Then, we present advanced scheduling strategies targeting scenarios with different burstiness levels, parameterized using the index of dispersion quantity. Extensive experiments have been performed using synthetic datasets and real-world data streams obtained from an existing real-time locating system. The experimental evaluation demonstrates the efficiency of our parallel solution and its effectiveness in handling the out-of-orderness degrees and burstiness levels of real-world applications.},
+  doi =      {10.1109/TPDS.2017.2679197},
+  issn =     {1045-9219},
+}
