@@ -5,12 +5,28 @@
     <link>/authors/tiziano-de-matteis/</link>
       <atom:link href="/authors/tiziano-de-matteis/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiziano De Matteis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tiziano De Matteis</title>
       <link>/authors/tiziano-de-matteis/</link>
     </image>
+    
+    <item>
+      <title>Noise in the Clouds: Influence of Network Performance Variability on Application Scalability</title>
+      <link>/publication/noise-cloud/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/noise-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity, Portability, Performance: Data-Centric Python</title>
+      <link>/publication/data-centric-python/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/data-centric-python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems</title>

@@ -5,12 +5,20 @@
     <link>/authors/tal-ben-nun/</link>
       <atom:link href="/authors/tal-ben-nun/index.xml" rel="self" type="application/rss+xml" />
     <description>Tal Ben-Nun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tal Ben-Nun</title>
       <link>/authors/tal-ben-nun/</link>
     </image>
+    
+    <item>
+      <title>Productivity, Portability, Performance: Data-Centric Python</title>
+      <link>/publication/data-centric-python/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/data-centric-python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems</title>

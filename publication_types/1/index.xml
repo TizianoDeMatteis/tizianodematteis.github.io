@@ -5,12 +5,28 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Temporal Vectorization: A Compiler Approach to Automatic Multi-Pumping</title>
+      <link>/publication/double-pumping/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/double-pumping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity, Portability, Performance: Data-Centric Python</title>
+      <link>/publication/data-centric-python/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/data-centric-python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems</title>

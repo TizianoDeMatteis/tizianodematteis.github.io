@@ -5,12 +5,124 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Daniele De Sensi</title>
+      <link>/authors/daniele-de-sensi/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/daniele-de-sensi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantin Taranov</title>
+      <link>/authors/konstantin-taranov/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/konstantin-taranov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvatore Di Girolamo</title>
+      <link>/authors/salvatore-di-girolamo/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/salvatore-di-girolamo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/tiziano-de-matteis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Rahn</title>
+      <link>/authors/tobias-rahn/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/tobias-rahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torsten Hoefler</title>
+      <link>/authors/torsten-hoefler/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/torsten-hoefler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carl-Johannes Johnsen</title>
+      <link>/authors/carl-johannes-johnsen/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/carl-johannes-johnsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes de Fine Licht</title>
+      <link>/authors/johannes-de-fine-licht/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/johannes-de-fine-licht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis Tal Ben-Nun</title>
+      <link>/authors/tiziano-de-matteis-tal-ben-nun/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/tiziano-de-matteis-tal-ben-nun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandros Nikolaos Ziogas</title>
+      <link>/authors/alexandros-nikolaos-ziogas/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/alexandros-nikolaos-ziogas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandru Calotoiu</title>
+      <link>/authors/alexandru-calotoiu/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/alexandru-calotoiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luca Lavarini</title>
+      <link>/authors/luca-lavarini/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/luca-lavarini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tal Ben-Nun</title>
+      <link>/authors/tal-ben-nun/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/tal-ben-nun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timo Schneider</title>
+      <link>/authors/timo-schneider/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/timo-schneider/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Andreas Kuster</title>
@@ -29,38 +141,6 @@
     </item>
     
     <item>
-      <title>Johannes de Fine Licht</title>
-      <link>/authors/johannes-de-fine-licht/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/johannes-de-fine-licht/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tal Ben-Nun</title>
-      <link>/authors/tal-ben-nun/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/tal-ben-nun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiziano De Matteis</title>
-      <link>/authors/tiziano-de-matteis/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/tiziano-de-matteis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Torsten Hoefler</title>
-      <link>/authors/torsten-hoefler/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/torsten-hoefler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>and Torsten Hoefler</title>
       <link>/authors/and-torsten-hoefler/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
@@ -73,14 +153,6 @@
       <link>/authors/jakub-beranek/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jakub-beranek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniele De Sensi</title>
-      <link>/authors/daniele-de-sensi/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/daniele-de-sensi/</guid>
       <description></description>
     </item>
     
@@ -169,14 +241,6 @@
       <link>/authors/maurizio-drocco/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/authors/maurizio-drocco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salvatore Di Girolamo</title>
-      <link>/authors/salvatore-di-girolamo/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/salvatore-di-girolamo/</guid>
       <description></description>
     </item>
     
