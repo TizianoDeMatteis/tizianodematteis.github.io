@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Computer Science Assistant Professor">
+  <meta name="description" content="Dataflow devices represent an avenue towards saving the control and data movement overhead of Load-Store Architectures. Various dataflow accelerators have been proposed, but how to efficiently schedule applications on such devices remains an open problem. The programmer can explicitly implement both temporal and spatial parallelism, and pipelining across multiple processing elements can be crucial to take advantage of the fast on-chip interconnect, enabling the concurrent execution of different program components. This paper introduces canonical task graphs, a model that enables streaming scheduling of task graphs over dataflow architectures. We show how a task graph can be statically analyzed to understand its steady-state behavior, and we use this information to partition it into temporally multiplexed components of spatially executed tasks. Results on synthetic and realistic workloads show how streaming scheduling can increase speedup and device utilization over a traditional scheduling approach.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/">
+  <link rel="alternate" hreflang="en-us" href="/publication/streaming-scheduling/">
 
   
 
@@ -107,14 +107,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Tiziano De Matteis">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/">
+  <link rel="canonical" href="/publication/streaming-scheduling/">
 
   
   
@@ -127,12 +125,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Tiziano De Matteis">
-  <meta property="og:url" content="/authors/">
-  <meta property="og:title" content="Authors | Tiziano De Matteis">
-  <meta property="og:description" content="Computer Science Assistant Professor"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/streaming-scheduling/">
+  <meta property="og:title" content="Streaming Task Graph Scheduling for Dataflow Architectures | Tiziano De Matteis">
+  <meta property="og:description" content="Dataflow devices represent an avenue towards saving the control and data movement overhead of Load-Store Architectures. Various dataflow accelerators have been proposed, but how to efficiently schedule applications on such devices remains an open problem. The programmer can explicitly implement both temporal and spatial parallelism, and pipelining across multiple processing elements can be crucial to take advantage of the fast on-chip interconnect, enabling the concurrent execution of different program components. This paper introduces canonical task graphs, a model that enables streaming scheduling of task graphs over dataflow architectures. We show how a task graph can be statically analyzed to understand its steady-state behavior, and we use this information to partition it into temporally multiplexed components of spatially executed tasks. Results on synthetic and realistic workloads show how streaming scheduling can increase speedup and device utilization over a traditional scheduling approach."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-06-01T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2023-05-19T09:23:29&#43;00:00">
+    
+    <meta property="article:modified_time" content="2023-06-01T00:00:00&#43;00:00">
   
 
   
@@ -144,7 +145,7 @@
 
 
 
-  <title>Authors | Tiziano De Matteis</title>
+  <title>Streaming Task Graph Scheduling for Dataflow Architectures | Tiziano De Matteis</title>
 
 </head>
 
@@ -343,88 +344,239 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Streaming Task Graph Scheduling for Dataflow Architectures</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Authors</h1>
+
+
+
+<meta content="2023-06-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-06-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tiziano-de-matteis/">Tiziano De Matteis</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/lukas-gianinazzi/">Lukas Gianinazzi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/johannes-de-fine-licht/">Johannes de Fine Licht</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/torsten-hoefler/">Torsten Hoefler</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>June 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/streaming-scheduling/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Dataflow devices represent an avenue towards saving the control and data movement overhead of Load-Store Architectures. Various dataflow accelerators have been proposed, but how to efficiently schedule applications on such devices remains an open problem. The programmer can explicitly implement both temporal and spatial parallelism, and pipelining across multiple processing elements can be crucial to take advantage of the fast on-chip interconnect, enabling the concurrent execution of different program components. This paper introduces canonical task graphs, a model that enables streaming scheduling of task graphs over dataflow architectures. We show how a task graph can be statically analyzed to understand its steady-state behavior, and we use this information to partition it into temporally multiplexed components of spatially executed tasks. Results on synthetic and realistic workloads show how streaming scheduling can increase speedup and device utilization over a traditional scheduling approach.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Proceedings of the 32th International Symposium on High-Performance Parallel and Distributed Computing (HPDC'23)</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
   
 
-  <ul>
-    
-    
-      
-      <li><a href="/authors/alexandros-nikolaos-ziogas/">Alexandros Nikolaos Ziogas</a></li>
-    
-      
-      <li><a href="/authors/alexandru-calotoiu/">Alexandru Calotoiu</a></li>
-    
-      
-      <li><a href="/authors/luca-lavarini/">Luca Lavarini</a></li>
-    
-      
-      <li><a href="/authors/tal-ben-nun/">Tal Ben-Nun</a></li>
-    
-      
-      <li><a href="/authors/timo-schneider/">Timo Schneider</a></li>
-    
-      
-      <li><a href="/authors/andreas-kuster/">Andreas Kuster</a></li>
-    
-      
-      <li><a href="/authors/dominic-hofer/">Dominic Hofer</a></li>
-    
-      
-      <li><a href="/authors/and-torsten-hoefler/">and Torsten Hoefler</a></li>
-    
-      
-      <li><a href="/authors/jakub-beranek/">Jakub Beránek</a></li>
-    
-      
-      <li><a href="/authors/gabriele-mencagli/">Gabriele Mencagli</a></li>
-    
-  </ul>
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
-    <li class="page-item"><a class="page-link" href="/authors/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/3/">&raquo;</a></li>
-    
-  </ul>
-</nav>
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/tiziano-de-matteis/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
 
 
+
+
+    
+
+
+  </div>
 </div>
+
+
 
       
 

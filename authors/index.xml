@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Johannes de Fine Licht</title>
+      <link>/authors/johannes-de-fine-licht/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/johannes-de-fine-licht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lukas Gianinazzi</title>
+      <link>/authors/lukas-gianinazzi/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/lukas-gianinazzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/tiziano-de-matteis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torsten Hoefler</title>
+      <link>/authors/torsten-hoefler/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/torsten-hoefler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Daniele De Sensi</title>
@@ -37,14 +69,6 @@
     </item>
     
     <item>
-      <title>Tiziano De Matteis</title>
-      <link>/authors/tiziano-de-matteis/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/tiziano-de-matteis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tobias Rahn</title>
       <link>/authors/tobias-rahn/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
@@ -53,26 +77,10 @@
     </item>
     
     <item>
-      <title>Torsten Hoefler</title>
-      <link>/authors/torsten-hoefler/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/torsten-hoefler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Carl-Johannes Johnsen</title>
       <link>/authors/carl-johannes-johnsen/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/authors/carl-johannes-johnsen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Johannes de Fine Licht</title>
-      <link>/authors/johannes-de-fine-licht/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/johannes-de-fine-licht/</guid>
       <description></description>
     </item>
     
