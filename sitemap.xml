@@ -3,37 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/johannes-de-fine-licht/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/lukas-gianinazzi/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/streaming-scheduling/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/tiziano-de-matteis/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/torsten-hoefler/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T11:14:01+02:00</lastmod>
   </url><url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/alexandru-iosup/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/aratz-manterola-lasa/</loc>
+    <lastmod>2024-04-16T11:14:01+02:00</lastmod>
+  </url><url>
+    <loc>/tags/architecture/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/cristina-abad/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/dante-niewenhuis/</loc>
+    <lastmod>2024-04-16T11:08:37+02:00</lastmod>
+  </url><url>
+    <loc>/tags/design/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/publication/stalluri-exde/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/publication/dniewenhuis-hotcloud-footprinter/</loc>
+    <lastmod>2024-04-16T11:08:37+02:00</lastmod>
+  </url><url>
+    <loc>/tags/mechanism/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/nikolas-herbst/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/tags/performance/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/sacheendra-talluri/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/tags/scheduler/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/tags/serverless/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/publication/2024-icpe-datacenter-scheduler/</loc>
+    <lastmod>2024-04-16T11:14:01+02:00</lastmod>
+  </url><url>
+    <loc>/authors/tiziano-de-matteis/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/authors/johannes-de-fine-licht/</loc>
+    <lastmod>2024-04-16T11:10:35+02:00</lastmod>
+  </url><url>
+    <loc>/authors/lukas-gianinazzi/</loc>
+    <lastmod>2024-04-16T11:10:35+02:00</lastmod>
+  </url><url>
+    <loc>/publication/streaming-scheduling/</loc>
+    <lastmod>2024-04-16T11:10:35+02:00</lastmod>
+  </url><url>
+    <loc>/authors/torsten-hoefler/</loc>
+    <lastmod>2024-04-16T11:10:35+02:00</lastmod>
   </url><url>
     <loc>/authors/daniele-de-sensi/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
@@ -51,13 +99,31 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/carl-johannes-johnsen/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
   </url><url>
     <loc>/publication/double-pumping/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/tiziano-de-matteis-tal-ben-nun/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
+  </url><url>
+    <loc>/authors/andreas-kuster/</loc>
+    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
+  </url><url>
+    <loc>/authors/manuel-burger/</loc>
+    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
+  </url><url>
+    <loc>/authors/oliver-rausch/</loc>
+    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
+  </url><url>
+    <loc>/publication/licht-2022-python/</loc>
+    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
+  </url><url>
+    <loc>/authors/tal-ben-nun/</loc>
+    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
   </url><url>
     <loc>/authors/alexandros-nikolaos-ziogas/</loc>
     <lastmod>2021-10-19T12:03:25+02:00</lastmod>
@@ -71,14 +137,8 @@
     <loc>/publication/data-centric-python/</loc>
     <lastmod>2021-10-19T12:03:25+02:00</lastmod>
   </url><url>
-    <loc>/authors/tal-ben-nun/</loc>
-    <lastmod>2021-10-19T12:03:25+02:00</lastmod>
-  </url><url>
     <loc>/authors/timo-schneider/</loc>
     <lastmod>2021-10-19T12:03:25+02:00</lastmod>
-  </url><url>
-    <loc>/authors/andreas-kuster/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/dominic-hofer/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
@@ -105,9 +165,6 @@
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/software/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/gabriele-mencagli/</loc>

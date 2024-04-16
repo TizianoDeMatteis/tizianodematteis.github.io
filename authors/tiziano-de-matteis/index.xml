@@ -5,12 +5,36 @@
     <link>/authors/tiziano-de-matteis/</link>
       <atom:link href="/authors/tiziano-de-matteis/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiziano De Matteis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tiziano De Matteis</title>
       <link>/authors/tiziano-de-matteis/</link>
     </image>
+    
+    <item>
+      <title>ExDe: Design space exploration of scheduler architectures and mechanisms for serverless data-processing</title>
+      <link>/publication/stalluri-exde/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/stalluri-exde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FootPrinter: Quantifying Data Center Carbon Footprint</title>
+      <link>/publication/dniewenhuis-hotcloud-footprinter/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/dniewenhuis-hotcloud-footprinter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cost of Simplicity: Understanding Datacenter Scheduler Programming Abstractions</title>
+      <link>/publication/2024-icpe-datacenter-scheduler/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024-icpe-datacenter-scheduler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Streaming Task Graph Scheduling for Dataflow Architectures</title>
@@ -25,6 +49,14 @@
       <link>/publication/noise-cloud/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/publication/noise-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python FPGA Programming with Data-Centric Multi-Level Design</title>
+      <link>/publication/licht-2022-python/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/licht-2022-python/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aratz Manterola Lasa | Tiziano De Matteis</title>
+    <link>/authors/aratz-manterola-lasa/</link>
+      <atom:link href="/authors/aratz-manterola-lasa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aratz Manterola Lasa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aratz Manterola Lasa</title>
+      <link>/authors/aratz-manterola-lasa/</link>
+    </image>
+    
+    <item>
+      <title>The Cost of Simplicity: Understanding Datacenter Scheduler Programming Abstractions</title>
+      <link>/publication/2024-icpe-datacenter-scheduler/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024-icpe-datacenter-scheduler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

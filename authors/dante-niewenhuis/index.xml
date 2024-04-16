@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dante Niewenhuis | Tiziano De Matteis</title>
+    <link>/authors/dante-niewenhuis/</link>
+      <atom:link href="/authors/dante-niewenhuis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dante Niewenhuis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Dante Niewenhuis</title>
+      <link>/authors/dante-niewenhuis/</link>
+    </image>
+    
+    <item>
+      <title>FootPrinter: Quantifying Data Center Carbon Footprint</title>
+      <link>/publication/dniewenhuis-hotcloud-footprinter/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/dniewenhuis-hotcloud-footprinter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

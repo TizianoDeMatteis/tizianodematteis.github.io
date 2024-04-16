@@ -5,12 +5,68 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Alexandru Iosup</title>
+      <link>/authors/alexandru-iosup/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/alexandru-iosup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aratz Manterola Lasa</title>
+      <link>/authors/aratz-manterola-lasa/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/aratz-manterola-lasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristina Abad</title>
+      <link>/authors/cristina-abad/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/cristina-abad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dante Niewenhuis</title>
+      <link>/authors/dante-niewenhuis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/dante-niewenhuis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikolas Herbst</title>
+      <link>/authors/nikolas-herbst/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/nikolas-herbst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sacheendra Talluri</title>
+      <link>/authors/sacheendra-talluri/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/sacheendra-talluri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/tiziano-de-matteis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Johannes de Fine Licht</title>
@@ -25,14 +81,6 @@
       <link>/authors/lukas-gianinazzi/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/authors/lukas-gianinazzi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiziano De Matteis</title>
-      <link>/authors/tiziano-de-matteis/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/tiziano-de-matteis/</guid>
       <description></description>
     </item>
     
@@ -93,6 +141,38 @@
     </item>
     
     <item>
+      <title>Andreas Kuster</title>
+      <link>/authors/andreas-kuster/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/andreas-kuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Burger</title>
+      <link>/authors/manuel-burger/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/manuel-burger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver Rausch</title>
+      <link>/authors/oliver-rausch/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/oliver-rausch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tal Ben-Nun</title>
+      <link>/authors/tal-ben-nun/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/tal-ben-nun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alexandros Nikolaos Ziogas</title>
       <link>/authors/alexandros-nikolaos-ziogas/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -117,26 +197,10 @@
     </item>
     
     <item>
-      <title>Tal Ben-Nun</title>
-      <link>/authors/tal-ben-nun/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/tal-ben-nun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Timo Schneider</title>
       <link>/authors/timo-schneider/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/authors/timo-schneider/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andreas Kuster</title>
-      <link>/authors/andreas-kuster/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/andreas-kuster/</guid>
       <description></description>
     </item>
     

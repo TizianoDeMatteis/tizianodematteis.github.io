@@ -5,12 +5,28 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>ExDe: Design space exploration of scheduler architectures and mechanisms for serverless data-processing</title>
+      <link>/publication/stalluri-exde/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/stalluri-exde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FootPrinter: Quantifying Data Center Carbon Footprint</title>
+      <link>/publication/dniewenhuis-hotcloud-footprinter/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/dniewenhuis-hotcloud-footprinter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Noise in the Clouds: Influence of Network Performance Variability on Application Scalability</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless | Tiziano De Matteis</title>
+    <link>/tags/serverless/</link>
+      <atom:link href="/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serverless</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Serverless</title>
+      <link>/tags/serverless/</link>
+    </image>
+    
+    <item>
+      <title>ExDe: Design space exploration of scheduler architectures and mechanisms for serverless data-processing</title>
+      <link>/publication/stalluri-exde/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/stalluri-exde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
