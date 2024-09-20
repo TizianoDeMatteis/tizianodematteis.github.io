@@ -5,12 +5,20 @@
     <link>/authors/tiziano-de-matteis/</link>
       <atom:link href="/authors/tiziano-de-matteis/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiziano De Matteis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tiziano De Matteis</title>
       <link>/authors/tiziano-de-matteis/</link>
     </image>
+    
+    <item>
+      <title>Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects</title>
+      <link>/publication/gpugpuinterconnect/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gpugpuinterconnect/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ExDe: Design space exploration of scheduler architectures and mechanisms for serverless data-processing</title>

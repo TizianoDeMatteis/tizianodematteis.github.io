@@ -5,12 +5,20 @@
     <link>/authors/torsten-hoefler/</link>
       <atom:link href="/authors/torsten-hoefler/index.xml" rel="self" type="application/rss+xml" />
     <description>Torsten Hoefler</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Torsten Hoefler</title>
       <link>/authors/torsten-hoefler/</link>
     </image>
+    
+    <item>
+      <title>Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects</title>
+      <link>/publication/gpugpuinterconnect/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gpugpuinterconnect/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Streaming Task Graph Scheduling for Dataflow Architectures</title>

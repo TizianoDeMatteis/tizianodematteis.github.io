@@ -5,12 +5,124 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Animesh Trivedi</title>
+      <link>/authors/animesh-trivedi/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/animesh-trivedi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniele Cesarini</title>
+      <link>/authors/daniele-cesarini/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/daniele-cesarini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniele De Sensi</title>
+      <link>/authors/daniele-de-sensi/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/daniele-de-sensi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duncan Roweth</title>
+      <link>/authors/duncan-roweth/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/duncan-roweth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filippo Spiga</title>
+      <link>/authors/filippo-spiga/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/filippo-spiga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flavio Vella</title>
+      <link>/authors/flavio-vella/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/flavio-vella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurt Lust</title>
+      <link>/authors/kurt-lust/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/kurt-lust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenzo Pichetti</title>
+      <link>/authors/lorenzo-pichetti/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/lorenzo-pichetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luigi Fusco</title>
+      <link>/authors/luigi-fusco/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/luigi-fusco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matteo Turisini</title>
+      <link>/authors/matteo-turisini/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/matteo-turisini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salvatore Di Girolamo</title>
+      <link>/authors/salvatore-di-girolamo/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/salvatore-di-girolamo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiziano De Matteis</title>
+      <link>/authors/tiziano-de-matteis/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/tiziano-de-matteis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torsten Hoefler</title>
+      <link>/authors/torsten-hoefler/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/torsten-hoefler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zebin Ren</title>
+      <link>/authors/zebin-ren/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/zebin-ren/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alexandru Iosup</title>
@@ -61,14 +173,6 @@
     </item>
     
     <item>
-      <title>Tiziano De Matteis</title>
-      <link>/authors/tiziano-de-matteis/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/authors/tiziano-de-matteis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Johannes de Fine Licht</title>
       <link>/authors/johannes-de-fine-licht/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
@@ -85,34 +189,10 @@
     </item>
     
     <item>
-      <title>Torsten Hoefler</title>
-      <link>/authors/torsten-hoefler/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/torsten-hoefler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniele De Sensi</title>
-      <link>/authors/daniele-de-sensi/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/daniele-de-sensi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Konstantin Taranov</title>
       <link>/authors/konstantin-taranov/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/authors/konstantin-taranov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salvatore Di Girolamo</title>
-      <link>/authors/salvatore-di-girolamo/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/salvatore-di-girolamo/</guid>
       <description></description>
     </item>
     
