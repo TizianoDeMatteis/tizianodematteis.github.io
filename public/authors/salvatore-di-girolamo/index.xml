@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salvatore Di Girolamo | Tiziano De Matteis</title>
+    <link>/authors/salvatore-di-girolamo/</link>
+      <atom:link href="/authors/salvatore-di-girolamo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Salvatore Di Girolamo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Salvatore Di Girolamo</title>
+      <link>/authors/salvatore-di-girolamo/</link>
+    </image>
+    
+    <item>
+      <title>Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects</title>
+      <link>/publication/gpugpuinterconnect/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gpugpuinterconnect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise in the Clouds: Influence of Network Performance Variability on Application Scalability</title>
+      <link>/publication/noise-cloud/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/noise-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Skyline Queries on Multicore Architectures</title>
+      <link>/publication/ccpe-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ccpe-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multicore Parallelization of Continuous Skyline Queries on Data Streams</title>
+      <link>/publication/europar-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/europar-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

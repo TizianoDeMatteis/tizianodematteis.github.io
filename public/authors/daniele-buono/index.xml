@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniele Buono | Tiziano De Matteis</title>
+    <link>/authors/daniele-buono/</link>
+      <atom:link href="/authors/daniele-buono/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniele Buono</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Daniele Buono</title>
+      <link>/authors/daniele-buono/</link>
+    </image>
+    
+    <item>
+      <title>A High-Throughput and Low-Latency Parallelization of Window-based Stream Joins on Multicores</title>
+      <link>/publication/ispa-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/ispa-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Run-Time Support for Fast Dense Linear Algebra on Multi-Core</title>
+      <link>/publication/pdcn-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pdcn-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Message-Passing on Multicore Architectures Using Hardware Multi-threading</title>
+      <link>/publication/pdp-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

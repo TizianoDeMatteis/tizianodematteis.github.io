@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniele De Sensi | Tiziano De Matteis</title>
+    <link>/authors/daniele-de-sensi/</link>
+      <atom:link href="/authors/daniele-de-sensi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniele De Sensi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Daniele De Sensi</title>
+      <link>/authors/daniele-de-sensi/</link>
+    </image>
+    
+    <item>
+      <title>Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects</title>
+      <link>/publication/gpugpuinterconnect/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gpugpuinterconnect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise in the Clouds: Influence of Network Performance Variability on Application Scalability</title>
+      <link>/publication/noise-cloud/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/noise-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
+      <link>/publication/gasser/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D2K: Scalable Community Detection in Massive Networks via Small-Diameter k-Plexes</title>
+      <link>/publication/kdd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kdd-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Message Latency and CPU Utilization in the CAF Actor Framework</title>
+      <link>/publication/cafpdp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cafpdp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplifying self-adaptive and power-aware computing with Nornir</title>
+      <link>/publication/nornir-fgcs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nornir-fgcs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The RePhrase Extended Pattern Set for Data Intensive Parallel Computing</title>
+      <link>/publication/rephrase-ijpp-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rephrase-ijpp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Parallel Patterns Out of the Corner: The P$^3$ARSEC Benchmark Suite</title>
+      <link>/publication/p-3-arsec-taco-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/p-3-arsec-taco-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Concurrency Throttling and Thread Packing on SMT Multicores</title>
+      <link>/publication/pdp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pdp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nornir: A Customisable Framework for Autonomic and Power-Aware Applications</title>
+      <link>/publication/nornir-autodasp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nornir-autodasp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P$^3$ARSEC: Towards Parallel Patterns Benchmarking</title>
+      <link>/publication/sac-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sac-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

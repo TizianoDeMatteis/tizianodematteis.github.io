@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessio Conte | Tiziano De Matteis</title>
+    <link>/authors/alessio-conte/</link>
+      <atom:link href="/authors/alessio-conte/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alessio Conte</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alessio Conte</title>
+      <link>/authors/alessio-conte/</link>
+    </image>
+    
+    <item>
+      <title>D2K: Scalable Community Detection in Massive Networks via Small-Diameter k-Plexes</title>
+      <link>/publication/kdd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kdd-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

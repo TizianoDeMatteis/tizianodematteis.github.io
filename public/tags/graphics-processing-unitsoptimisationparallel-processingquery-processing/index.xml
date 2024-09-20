@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graphics processing units;optimisation;parallel processing;query processing; | Tiziano De Matteis</title>
+    <link>/tags/graphics-processing-unitsoptimisationparallel-processingquery-processing/</link>
+      <atom:link href="/tags/graphics-processing-unitsoptimisationparallel-processingquery-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>graphics processing units;optimisation;parallel processing;query processing;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2019 11:10:23 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>graphics processing units;optimisation;parallel processing;query processing;</title>
+      <link>/tags/graphics-processing-unitsoptimisationparallel-processingquery-processing/</link>
+    </image>
+    
+    <item>
+      <title>GASSER: An Auto-Tunable System for General Sliding-Window Streaming Operators on GPUs</title>
+      <link>/publication/gasser/</link>
+      <pubDate>Sat, 24 Aug 2019 11:10:23 +0000</pubDate>
+      <guid>/publication/gasser/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

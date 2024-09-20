@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes de Fine Licht | Tiziano De Matteis</title>
+    <link>/authors/johannes-de-fine-licht/</link>
+      <atom:link href="/authors/johannes-de-fine-licht/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes de Fine Licht</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Johannes de Fine Licht</title>
+      <link>/authors/johannes-de-fine-licht/</link>
+    </image>
+    
+    <item>
+      <title>Streaming Task Graph Scheduling for Dataflow Architectures</title>
+      <link>/publication/streaming-scheduling/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/streaming-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Vectorization: A Compiler Approach to Automatic Multi-Pumping</title>
+      <link>/publication/double-pumping/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/double-pumping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python FPGA Programming with Data-Centric Multi-Level Design</title>
+      <link>/publication/licht-2022-python/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/licht-2022-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity, Portability, Performance: Data-Centric Python</title>
+      <link>/publication/data-centric-python/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/data-centric-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems</title>
+      <link>/publication/stencilflow/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/stencilflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> FBLAS: Streaming Linear Algebra on FPGA</title>
+      <link>/publication/fblas/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fblas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming Message Interface: High-Performance DistributedMemory Programming on Reconfigurable Hardware</title>
+      <link>/publication/smi/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

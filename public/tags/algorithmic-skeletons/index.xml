@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithmic skeletons | Tiziano De Matteis</title>
+    <link>/tags/algorithmic-skeletons/</link>
+      <atom:link href="/tags/algorithmic-skeletons/index.xml" rel="self" type="application/rss+xml" />
+    <description>algorithmic skeletons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>algorithmic skeletons</title>
+      <link>/tags/algorithmic-skeletons/</link>
+    </image>
+    
+    <item>
+      <title>Bringing Parallel Patterns Out of the Corner: The P$^3$ARSEC Benchmark Suite</title>
+      <link>/publication/p-3-arsec-taco-17/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/p-3-arsec-taco-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

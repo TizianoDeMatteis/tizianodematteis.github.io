@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Kilpatrick | Tiziano De Matteis</title>
+    <link>/authors/peter-kilpatrick/</link>
+      <atom:link href="/authors/peter-kilpatrick/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Kilpatrick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Peter Kilpatrick</title>
+      <link>/authors/peter-kilpatrick/</link>
+    </image>
+    
+    <item>
+      <title>The RePhrase Extended Pattern Set for Data Intensive Parallel Computing</title>
+      <link>/publication/rephrase-ijpp-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rephrase-ijpp-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

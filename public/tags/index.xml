@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Tiziano De Matteis</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Architecture</title>
+      <link>/tags/architecture/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/tags/design/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism</title>
+      <link>/tags/mechanism/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>/tags/performance/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduler</title>
+      <link>/tags/scheduler/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/scheduler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>/tags/serverless/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>/tags/fpga/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community discovery</title>
+      <link>/tags/community-discovery/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/community-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data stream processing</title>
+      <link>/tags/data-stream-processing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/data-stream-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fog computing</title>
+      <link>/tags/fog-computing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/fog-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph enumeration</title>
+      <link>/tags/graph-enumeration/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/graph-enumeration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k-plexes</title>
+      <link>/tags/k-plexes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/k-plexes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel computing</title>
+      <link>/tags/parallel-computing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel programming</title>
+      <link>/tags/parallel-programming/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/parallel-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power-aware</title>
+      <link>/tags/power-aware/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/power-aware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality of service</title>
+      <link>/tags/quality-of-service/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/quality-of-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-adaptive</title>
+      <link>/tags/self-adaptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/self-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithmic skeletons</title>
+      <link>/tags/algorithmic-skeletons/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/algorithmic-skeletons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmarking</title>
+      <link>/tags/benchmarking/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multicore programming</title>
+      <link>/tags/multicore-programming/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/multicore-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel patterns</title>
+      <link>/tags/parallel-patterns/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/parallel-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsec</title>
+      <link>/tags/parsec/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/parsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intel KNL</title>
+      <link>/tags/intel-knl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/intel-knl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PARSEC Benchmarks</title>
+      <link>/tags/parsec-benchmarks/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/parsec-benchmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divide and Conquer</title>
+      <link>/tags/divide-and-conquer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/divide-and-conquer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-level parallel patterns</title>
+      <link>/tags/high-level-parallel-patterns/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/high-level-parallel-patterns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
