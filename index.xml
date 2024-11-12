@@ -28,5 +28,50 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/service/</guid>
+      <description>&lt;h2 id=&#34;program-committee&#34;&gt;Program Committee&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025, USENIX Symposium on Operating Systems Design and Implementation (OSDI)&lt;/li&gt;
+&lt;li&gt;2025, IEEE International Parallel &amp;amp; Distributed Processing Symposium (IPDPS)  – Monitoring track&lt;/li&gt;
+&lt;li&gt;2024, International Symposium on High-Level Parallel Programming and Applications (HLPP)&lt;/li&gt;
+&lt;li&gt;2024, Workshop on Irregular Applications: Architectures and Algorithms (IA3 – co-located with Supercomputing)&lt;/li&gt;
+&lt;li&gt;2024, ACM Symposium on  High-Performance Parallel and Distributed Computing (HPDC) - Poster session&lt;/li&gt;
+&lt;li&gt;2024, International Conference on Parallel Processing (ICPP) - ”Software” track&lt;/li&gt;
+&lt;li&gt;2024, ICT.Open 2024 - CompSys track&lt;/li&gt;
+&lt;li&gt;2023, IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid 2023) – “Software Systems and Platforms” track&lt;/li&gt;
+&lt;li&gt;2023, Supercomputing (SC) - “Post-Moore Computing” track&lt;/li&gt;
+&lt;li&gt;2023, IEEE  International Conference on High Performance Computing, Data, and Analytics (HiPC) – “High-Performance Computing – System Software” track&lt;/li&gt;
+&lt;li&gt;2022, Supercomputing (SC) – Artifact Evaluation Committee&lt;/li&gt;
+&lt;li&gt;2021, ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS ) – Artifact Evaluation Committee&lt;/li&gt;
+&lt;li&gt;2021, Supercomputing (SC) – Artifact Evaluation Committee&lt;/li&gt;
+&lt;li&gt;2020,  International Conference on High Performance Computing &amp;amp; Simulation (HPCS)&lt;/li&gt;
+&lt;li&gt;2020,  IARIA International Conference on Advanced Communications and Computation (INFOCOMP 2020)&lt;/li&gt;
+&lt;li&gt;2019,  International Conference on High Performance Computing &amp;amp; Simulation (HPCS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;activities&#34;&gt;Activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2024, Co-Organizer of the Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf 2024) – Co-located at ICPE 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2019, Publicity and Web Chair for the Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP 2019) workshop – Co-located at Europar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2018, Publicity and Web Chair for the Autonomic Solutions for Parallel and Distributed Data Stream Processing (Auto-DaSP) workshop – Co-located at Europar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2018, Local Chair at the 24th International European Conference on Parallel and Distributed Computing (Europar 2018) –  “Theory and Algorithms for Parallel Computation and Networking” track&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2017, Program Chair of the Special Session in “Smart Home and E-Health to improve the Quality of Life” at the 3rd EAI International Conference on Smart Objects and Technologies for Social Good (GoodTechs 2017)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

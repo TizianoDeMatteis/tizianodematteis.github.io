@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Developing a BLAS library for the AMD AI Engine</title>
+      <link>/publication/aie-blas/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/aie-blas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ExDe: Design space exploration of scheduler architectures and mechanisms for serverless data-processing</title>
       <link>/publication/stalluri-exde/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>

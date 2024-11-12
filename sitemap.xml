@@ -9,7 +9,7 @@
     <lastmod>2024-09-20T08:58:15+02:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2024-09-20T08:58:15+02:00</lastmod>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
   </url><url>
     <loc>/authors/daniele-cesarini/</loc>
     <lastmod>2024-09-20T08:58:15+02:00</lastmod>
@@ -42,25 +42,28 @@
     <lastmod>2024-09-20T08:58:15+02:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2024-09-20T08:58:15+02:00</lastmod>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2024-09-20T08:58:15+02:00</lastmod>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
   </url><url>
     <loc>/authors/salvatore-di-girolamo/</loc>
     <lastmod>2024-09-20T08:58:15+02:00</lastmod>
   </url><url>
     <loc>/authors/tiziano-de-matteis/</loc>
-    <lastmod>2024-09-20T08:58:15+02:00</lastmod>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2024-09-20T08:58:15+02:00</lastmod>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
   </url><url>
     <loc>/authors/torsten-hoefler/</loc>
     <lastmod>2024-09-20T08:58:15+02:00</lastmod>
   </url><url>
     <loc>/authors/zebin-ren/</loc>
     <lastmod>2024-09-20T08:58:15+02:00</lastmod>
+  </url><url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
   </url><url>
     <loc>/publication_types/2/</loc>
     <lastmod>2024-04-16T11:17:34+02:00</lastmod>
@@ -82,6 +85,9 @@
   </url><url>
     <loc>/tags/design/</loc>
     <lastmod>2024-04-16T11:17:34+02:00</lastmod>
+  </url><url>
+    <loc>/publication/aie-blas/</loc>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
   </url><url>
     <loc>/publication/stalluri-exde/</loc>
     <lastmod>2024-04-16T11:17:34+02:00</lastmod>
@@ -113,6 +119,9 @@
     <loc>/publication/2024-icpe-datacenter-scheduler/</loc>
     <lastmod>2024-04-16T11:14:01+02:00</lastmod>
   </url><url>
+    <loc>/authors/tristan-laan/</loc>
+    <lastmod>2024-11-12T10:26:43+01:00</lastmod>
+  </url><url>
     <loc>/authors/johannes-de-fine-licht/</loc>
     <lastmod>2024-04-16T11:10:35+02:00</lastmod>
   </url><url>
@@ -139,9 +148,6 @@
   </url><url>
     <loc>/authors/tiziano-de-matteis-tal-ben-nun/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/0/</loc>
-    <lastmod>2024-04-16T11:10:05+02:00</lastmod>
   </url><url>
     <loc>/authors/andreas-kuster/</loc>
     <lastmod>2024-04-16T11:10:05+02:00</lastmod>
@@ -384,6 +390,9 @@
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
+  </url><url>
+    <loc>/service/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/categories/</loc>
   </url>
