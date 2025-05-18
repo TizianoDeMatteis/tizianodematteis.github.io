@@ -394,6 +394,9 @@
     <loc>/service/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>/thesis/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>/categories/</loc>
   </url>
 </urlset>
