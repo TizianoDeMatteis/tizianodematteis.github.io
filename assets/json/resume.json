@@ -1,0 +1,138 @@
+{
+  
+
+  "tpc": [
+    {
+      "position": "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)",
+      "url":"https://sc25.supercomputing.org/",
+      "summary": "“Post-Moore computing” track",
+      "startDate": "2025"
+    },
+    {
+      "position": "USENIX Symposium on Operating Systems Design and Implementation (OSDI)",
+      "url":"https://www.usenix.org/conference/osdi25",
+      "startDate": "2025"
+    },
+    {
+      "position": " IEEE International Parallel & Distributed Processing Symposium (IPDPS)",
+      "url":"https://www.ipdps.org/2025-announcements.html",
+      "summary": "“Monitoring” track",
+      "startDate": "2025"
+    },
+    {
+      "position": "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)",
+      "url":"https://hlpp2024.di.unipi.it/",
+      "summary": "“Post-Moore computing” track",
+      "startDate": "2025"
+    },
+    {
+      "position": " International Symposium on High-Level Parallel Programming and Applications (HLPP)",
+      "url":"https://sc25.supercomputing.org/",
+      "startDate": "2024"
+    },
+     {
+      "position": "ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC)",
+      "url":"https://hpdc.sci.utah.edu/2024/calls-posters.html",
+      "summary": "Member of the Poster Committe",
+      "startDate": "2024"
+    },
+    {
+      "position": "International Conference on Parallel Processing (ICPP)",
+      "url":"https://icpp2024.org/",
+      "summary": "“Software” track",
+      "startDate": "2024"
+    },
+    {
+      "position": "ICT.Open",
+      "url":"https://ictopen.nl/",
+      "startDate": "2024",
+      "summary" : "“Compsys“ track"
+    },
+     {
+      "position": "IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid",
+      "url":"https://ccgrid2023.iisc.ac.in/",
+      "startDate": "2023",
+      "summary":"“Software Systems and Platforms” track"
+    },
+     {
+      "position": " International Conference on High Performance Computing & Simulation (HPCS)",
+      "url":"https://sites.google.com/a/cisedu.info/hpcs2019/hpcs-2019",
+      "startDate": "2019"
+    },
+    {
+      "position": "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)",
+      "url":"https://sc23.supercomputing.org/",
+      "summary": "“Post-Moore computing” track",
+      "startDate": "2023"
+    },
+    {
+      "position": "IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+      "url":"https://2023.hipc.org/",
+      "summary": "“High-Performance Computing – System Software” track",
+      "startDate": "2023"
+    },
+    {
+      "position": "ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)",
+      "url":"asplos-conference.org",
+      "startDate": "2021",
+      "summary": "Member of the Artifact Evaluation Committee"
+    },
+    {
+      "position": "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)",
+      "url":"supercomputing.org",
+      "summary": "Member of the Artifact Evaluation Committee",
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "position": "IARIA International Conference on Advanced Communications and Computation (INFOCOMP)",
+      "url":"https://www.iaria.org/conferences2020/INFOCOMP20.html",
+      "startDate": "2020"
+    },
+    {
+      "position": " International Conference on High Performance Computing & Simulation (HPCS)",
+      "url":"https://ieeexplore.ieee.org/xpl/conhome/1800007/all-proceedings",
+      "startDate": "2019",
+      "endDate":"2020"
+    }
+  ],
+
+  "activities": [
+    
+    {
+      "position": "Selection Committee",
+      "organization": "Dutch Research Council (NWO) Veni (Science)",
+      "url": "https://www.nwo.nl/en/calls/nwo-talent-programme",
+      "startDate": "2025"
+    },
+    {
+      "position": "Organizer",
+      "organization": "Workshop on Serverless, Extreme-Scale, and Sustainable Graph Processing Systems",
+      "summary":"Co-located at Europar 2024",
+      "url": "https://graphsys.org/",
+      "startDate": "2025"
+    },
+     {
+      "position": "Organizer",
+      "organization": "Workshop on Hot Topics in Cloud Computing Performance (HotCloudPerf)",
+      "summary":"Co-located at ICPE 2024",
+      "url": "https://hotcloudperf.spec.org/2024",
+      "startDate": "2024"
+    },
+    {
+      "position": "Local Track Chair ",
+      "organization": "International European Conference on Parallel and Distributed Computing (Europar)",
+      "url": "https://link.springer.com/conference/europar",
+      "summary":"“Theory and Algorithms for Parallel Computation and Networking” track",
+      "startDate": "2018"
+    },
+    {
+      "organization": "EAI International Conference on Smart Objects and Technologies for Social Good (GoodTechs) ",
+      "position": "Session Program Chair",
+      "summary": "Special Session in “Smart Home and E-Health to improve the Quality of Life”",
+      "url": "https://goodtechs.eai-conferences.org/2017/",
+      "startDate": "2017"
+    }
+  ]
+  
+}
