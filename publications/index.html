@@ -237,6 +237,141 @@
 <div class="row">
   
     <div class="col col-sm-2 abbr">
+          <abbr class="badge rounded w-100">IISWC</abbr>
+        
+      
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="doekemeijer_cgroups" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Does Linux Provide Performance Isolation for NVMe SSDs? Configuring cgroups for I/O Control in the NVMe Era</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Krijn
+            Doekemeijer, Zebin
+            Ren, <em>Tiziano
+            De Matteis</em>, and
+        <span class="more-authors" title="click to view 2 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '2 more authors' ? 'Balakrishnan Chandrasekaran, Animesh Trivedi' : '2 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">2 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In 2025 IEEE International Symposium on Workload Characterization (IISWC)</em>,  2025
+    </div>
+    <div class="periodical">
+      <font size="2"></font>
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+        <a class="award btn btn-sm z-depth-0" role="button">Best Paper Finalist</a>
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+      
+      
+        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+      <!-- Hidden Award block -->
+      <div class="award hidden d-print-inline">
+        <p></p>
+<p>True</p>
+
+      </div>
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>Retrieval-augmented generation (RAG) has emerged as an effective method for enhancing large language models
+by integrating external knowledge sources to reduce the model size, avoid hallucinations, and provide an easier way to update
+the knowledge than fine-tuning. This external knowledge is commonly managed by vector databases, where the external knowledge is embedded into vectors and retrieved with vector similarity search. As the size of these external knowledge bases grows, the memory requirements for storing vectors and their
+associated indexes exceed the practical limits of main memory, prompting a shift toward storage-based solutions. Despite the
+adoption of storage-based solutions in modern vector databases, there have been limited systematic evaluations of the performance characteristics and I/O behavior of state-of-the-practice vector databases with storage-based setups. In this paper, we systematically characterize the performance, scalability, and I/O characteristics of these vector databases on modern SSDs that can deliver millions of I/O operations/s with less than
+100 µs latency. We report 22 observations and 3 key findings that indicate: (i) vector databases with storage-based setups do not necessarily indicate lower performance than memorybased setups, for example, the storage-based setup DiskANN outperforms the memory-based setup, IVF, with up to 3.2×
+search throughput in Milvus, (ii) state-of-the-practice vector databases with storage-based setups require optimizations on I/O traffic to fully utilize the performance with flash SSDs, the maximum bandwidth achieved in our experiments is 1.7 GiB/s and can not saturate our benchmarked SSD, and (iii) the indexes’ search-time parameters affect both performance and I/O characteristics of vector databases, for example, when the parameter search_list increases from 10 to 100, the throughput of vector similarity search decreases up to 60.9% and the read bandwidth increases up to 3.3×. We open-source the scripts and traces of this work at: https://zenodo.org/records/16916496.</p>
+      </div>
+    
+
+    
+      <!-- Hidden bibtex block -->
+      <div class="bibtex hidden">
+        <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">doekemeijer_cgroups</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Doekemeijer, Krijn and Ren, Zebin and De Matteis, Tiziano and Chandrasekaran, Balakrishnan and Trivedi, Animesh}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Does Linux Provide Performance Isolation for NVMe SSDs? Configuring cgroups for I/O Control in the NVMe Era}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{2025 IEEE International Symposium on Workload Characterization (IISWC)}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{{ACM}}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2025}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+      </div>
+    
+
+    
+  </div>
+</div>
+</li>
+<li>
+<div class="row">
+  
+    <div class="col col-sm-2 abbr">
           <abbr class="badge rounded w-100" style="background-color:#009f06">
             
               <a href="https://www.frontiersin.org/journals/high-performance-computing" rel="external nofollow noopener" target="_blank">FHPC</a>
@@ -2215,7 +2350,7 @@
     <!-- Links/Buttons -->
     <div class="links">
       
-        <a class="award btn btn-sm z-depth-0" role="button">Awarded</a>
+        <a class="award btn btn-sm z-depth-0" role="button">SIGHPC Certificate of Appreciation for reproducible methods at the ACM/IEEE Supercomputing Conference (SC22) ACM student cluster competition</a>
       
       
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
