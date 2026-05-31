@@ -3,6 +3,23 @@
 
   "tpc": [
     {
+      "position": "Eurosys - ACM SigOPS in Europe",
+      "url":"https://2027.eurosys.org/",
+      "startDate": "2027"
+    },
+    {
+      "position": "The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID)",
+      "url":"https://ccgrid2026.cdms.westernsydney.edu.au/",
+      "summary": "“Hardware Systems, Architectures and Future Compute Platforms” track",
+      "startDate": "2026"
+    },
+    {
+      "position": "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)",
+      "url":"https://sc26.supercomputing.org/",
+      "summary": "“System Software and Cloud Computing” track",
+      "startDate": "2026"
+    },
+    {
       "position": "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)",
       "url":"https://sc25.supercomputing.org/",
       "summary": "“Post-Moore computing” track",
@@ -98,7 +115,12 @@
   ],
 
   "activities": [
-    
+    {
+      "position": "Poster Chair",
+      "organization": "International European Conference on Parallel and Distributed Computing (Euro-par)",
+      "url": "https://2026.euro-par.org/",
+      "startDate": "2026"
+    },
     {
       "position": "Selection Committee",
       "organization": "Dutch Research Council (NWO) Veni (Science)",
@@ -107,8 +129,15 @@
     },
     {
       "position": "Organizer",
+      "organization": "HPC & The Roaring 20s of Computing -- VU Amsterdam",
+      "url": "https://www.vucompsys.net/hpc-the-roaring-20s-of-computing/",
+      "startDate": "2025",
+      "summary": "I organized an HPC symposium at the VU to celebrate the retirement of Prof. Henri Bal"
+    },
+    {
+      "position": "Organizer",
       "organization": "Workshop on Serverless, Extreme-Scale, and Sustainable Graph Processing Systems",
-      "summary":"Co-located at Europar 2024",
+      "summary":"Co-located at Europar 2025",
       "url": "https://graphsys.org/",
       "startDate": "2025"
     },
@@ -121,7 +150,7 @@
     },
     {
       "position": "Local Track Chair ",
-      "organization": "International European Conference on Parallel and Distributed Computing (Europar)",
+      "organization": "International European Conference on Parallel and Distributed Computing (Euro-par)",
       "url": "https://link.springer.com/conference/europar",
       "summary":"“Theory and Algorithms for Parallel Computation and Networking” track",
       "startDate": "2018"
